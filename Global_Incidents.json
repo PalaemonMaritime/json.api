@@ -1752,7 +1752,7 @@
     "Action taken by master/crew": "The ship enhanced her security watches and measures.",
     "Reported?": true,
     "Reported to...": "The ship enhanced her security watches and measures.",
-    "Reporting State": "Viet Nam",
+    "Reporting State": "Vietnam",
     "Coastal State Action Taken": "Not stated.",
     "MSC/Circ": 348,
     "Latitude_dd": 10.2,
@@ -2550,4 +2550,5 @@
     "Latitude_dd": 1.2333,
     "Longitude_dd": 104.0333
   }
+
 ]
