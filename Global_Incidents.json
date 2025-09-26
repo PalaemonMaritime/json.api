@@ -5,8 +5,8 @@
     "Ship Type": "Product tanker",
     "IMO No.": "9877559",
     "Area": "In port area",
-    "Latitude": 6,
-    "Longitude": 3,
+    "Latitude": "6° 26.10' N",
+    "Longitude": "3° 18.89' E",
     "Incident details": "Duty crew onboard a berthed tanker spotted four unauthorised persons onboard the vessel. Seeing the alerted crew, the persons escaped without stealing anything. The incident was reported to Port Authorities",
     "Consequences for crew etc": "Nil",
     "Action taken by master/crew": "Nil",
@@ -14,22 +14,26 @@
     "Reported to...": "Port Authorities",
     "Reporting State": "Nigeria",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 344
+    "MSC/Circ": 344,
+    "Latitude_dd": 6.4333,
+    "Longitude_dd": 3.3
   },
   {
     "Date": "2025-01-07",
     "Ship Name": "Name Withheld",
     "Ship Type": "Oil tanker",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 07.09' N",
+    "Longitude": "103° 43.09' E",
     "Incident details": "Engine room crew noticed footprints and auxiliary engine spare parts missing during routine rounds onboard a tanker underway.",
     "Consequences for crew etc": "Engine spare’s stolen",
     "Action taken by master/crew": "PA announcement made and crew mustered. A search was carried out",
     "Reported?": false,
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 344
+    "MSC/Circ": 344,
+    "Latitude_dd": 1.1167,
+    "Longitude_dd": 103.7167
   },
   {
     "Date": "2025-01-08",
@@ -37,8 +41,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9587350",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.95' N",
+    "Longitude": "103° 36.83' E",
     "Incident details": "While underway, four perpetrators armed with a gun were sighted in the engine room. The master raised the alarm and mustered crew to conduct a search onboard, but with no sighting of the perpetrators. Nothing was stolen. All crew members were accounted for, and no injury to the crew was reported. \n\nThe master reported the incident to Singapore Vessel Traffic Information System (VTIS) West. A safety navigational broadcast was initiated. The Republic of Singapore Navy (RSN)’s Maritime Security Task Force (MSTF) and Singapore Police Coast Guard (PCG) were notified of the incident. The PCG boarded the ship upon her arrival at Singapore, conducted a search, and no perpetrators were found onboard. Information of the incident was shared with the Indonesian authorities.\n\n[Category 2]",
     "Consequences for crew etc": "The crew members were safe.\n\nNothing was stolen. \n",
     "Action taken by master/crew": "The master raised the alarm and mustered crew to conduct a search onboard.",
@@ -46,7 +50,9 @@
     "Reported to...": "The incident was reported to VTIS West.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "A safety navigational broadcast was initiated. The RSN’s MSTF and Singapore PCG were notified of the incident. The PCG boarded the ship upon her arrival at Singapore, conducted a search, and no perpetrators were found onboard. Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 344
+    "MSC/Circ": 344,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6
   },
   {
     "Date": "2025-01-09",
@@ -54,8 +60,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9971903",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 08.10' N",
+    "Longitude": "103° 45.81' E",
     "Incident details": "(ReCAAP) While underway, six perpetrators armed with knives were sighted in the engine room. The alarm was raised and all ship crew mustered at the bridge. A security search was carried out but no perpetrators were found. Some engine spares were stolen. The crew was not injured. \n\nThe master reported the incident to Singapore VTIS. A safety navigational broadcast was initiated. The RSN’s MSTF and Singapore PCG were notified of the incident. The PCG boarded the ship at the anchorage after arrival at Singapore, conducted a search, but no perpetrators were found onboard. Information of the incident was shared with the Indonesian authorities.\n\n*(IMBKL) \nSix robbers armed with guns and long knives boarded the ship underway. Duty oiler was taken hostage, tied up and guarded by one robber while the others stole engine spares. Before escaping, the robbers released the oiler, who then informed the Master. General alarm raised, PA announcement made, and crew mustered. Incident reported to VTIS.\n",
     "Consequences for crew etc": "The crew was not injured.\n\nSome engine spares were stolen. \n",
     "Action taken by master/crew": "The alarm was raised and all ship crew mustered at the bridge and carried out a  security search.",
@@ -63,7 +69,9 @@
     "Reported to...": "The incident was reported to VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "A safety navigational broadcast was initiated. The RSN’s MSTF and Singapore PCG were notified of the incident. The PCG boarded the ship upon her arrival at Singapore, conducted a search, but no perpetrators were found onboard. Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 344
+    "MSC/Circ": 344,
+    "Latitude_dd": 1.1333,
+    "Longitude_dd": 103.75
   },
   {
     "Date": "2025-01-12",
@@ -71,8 +79,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9734563",
     "Area": "In port area",
-    "Latitude": 21,
-    "Longitude": 90,
+    "Latitude": "21° 19.20' N",
+    "Longitude": "90° 04.28' E",
     "Incident details": "Eight robbers, in a wooden boat, armed with knives and steel bars boarded an anchored ship using hooks attached with ropes. They overpowered the duty AB on rounds, tied him up and broke into the forecastle and paint lockers. Another duty crew noticed the robbers and informed the bridge. Alarm raised, PA announcement made, and crew mustered. Upon hearing the alarm and seeing the crew's alertness, the robbers escaped with stolen ship's properties and stores. Port control and the navy were informed.",
     "Consequences for crew etc": "Robbers overpowered the duty AB on rounds, tied him up and broke into the forecastle and paint lockers. Ship’s properties and stores were stolen",
     "Action taken by master/crew": "Alarm raised, PA announcement made, and crew mustered",
@@ -80,7 +88,9 @@
     "Reported to...": "Port Control and Bangladesh Navy",
     "Reporting State": "Bangladesh",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 344
+    "MSC/Circ": 344,
+    "Latitude_dd": 21.3167,
+    "Longitude_dd": 90.0667
   },
   {
     "Date": "2025-01-13",
@@ -88,8 +98,8 @@
     "Ship Type": "Supply ship",
     "IMO No.": "9562374",
     "Area": "In port area",
-    "Latitude": 5,
-    "Longitude": 4,
+    "Latitude": "5° 16.21' N",
+    "Longitude": "4° 02.05' W",
     "Incident details": "A robber armed with a knife boarded an anchored vessel and escaped with a stolen mobile phone. Crew are reported safe.",
     "Consequences for crew etc": "Mobile phone was stolen",
     "Action taken by master/crew": "NA",
@@ -97,7 +107,9 @@
     "Reported to...": "-",
     "Reporting State": "Côte d'Ivoire",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 344
+    "MSC/Circ": 344,
+    "Latitude_dd": 5.2667,
+    "Longitude_dd": -4.0333
   },
   {
     "Date": "2025-01-16",
@@ -105,8 +117,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9724867",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 05.32' N",
+    "Longitude": "103° 43.25' E",
     "Incident details": "While underway, the 2nd Engineer saw two perpetrators armed with gun-like objects in the engine room. The master raised the alarm and crew mustered to conduct a search onboard with no sighting of the perpetrators. All crew members were accounted for, and there were no reported injuries. Nothing was stolen.\n\nThe master reported to Singapore Vessel Traffic Information System (VTIS) West. Safety broadcasts on anti-piracy watch were initiated to warn all ships to maintain a vigilant watch at all times in the Singapore Strait. The Republic of Singapore Navy's (RSN) Maritime Security Task Force (MSTF) and Singapore Police Coast Guard (PCG) were notified of the incident. Information of the incident was shared with the Indonesian authorities. \n\n\n[Category 3]",
     "Consequences for crew etc": "The crew was not injured.\n\nNothing was stolen. \n",
     "Action taken by master/crew": "The master raised the alarm and crew mustered to conduct a search onboard with no sighting of the perpetrators.",
@@ -114,7 +126,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS West.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcasts on anti-piracy watch were initiated to warn all ships to maintain a vigilant watch at all times in the Singapore Strait. The RSN’s MSTF and PCG were notified of the incident. Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 344
+    "MSC/Circ": 344,
+    "Latitude_dd": 1.0833,
+    "Longitude_dd": 103.7167
   },
   {
     "Date": "2025-01-17",
@@ -122,8 +136,8 @@
     "Ship Type": "Chemical tanker",
     "IMO No.": "9348522",
     "Area": "In port area",
-    "Latitude": 3,
-    "Longitude": 98,
+    "Latitude": "3° 55.79' N",
+    "Longitude": "98° 44.50' E",
     "Incident details": "While at anchor, a crew member spotted two perpetrators on port side main deck near accommodation area. The crew member immediately alerted the bridge of the incident and general alarm was sounded. The two perpetrators immediately jumped onto a boat waiting along the ship. Ropes with hook were used to board the ship. A search was conducted onboard. The crew was not injured. Some unsecured items onboard were stolen.  \n\nThe incident was reported to Belawan VTS.\n [Category 4]",
     "Consequences for crew etc": "The crew was not injured. \n\nSome unsecured items onboard were stolen.  \n",
     "Action taken by master/crew": "The general alarm was sounded and a search was conducted onboard",
@@ -131,7 +145,9 @@
     "Reported to...": "The incident was reported to Belawan VTS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "No information available",
-    "MSC/Circ": 344
+    "MSC/Circ": 344,
+    "Latitude_dd": 3.9167,
+    "Longitude_dd": 98.7333
   },
   {
     "Date": "2025-01-19",
@@ -139,8 +155,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9743174",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 10.64' N",
+    "Longitude": "103° 49.31' E",
     "Incident details": "While underway, six perpetrators armed with parangs were sighted in the engine room. The master raised alarm and all crew mustered to conduct a search with no sighting of the perpetrators. The Chief Engineer’s hands were tied with rubber tubing and therefore experienced pain in the wrists. Some engine spares were stolen. \n\nThe master reported the incident to Singapore VTIS. Safety broadcasts on anti-piracy watch were initiated to warn all ships to maintain a vigilant watch at all times in the Singapore Strait. The RSN’s MSTF and Singapore PCG were notified of the incident. The PCG boarded the ship at the anchorage upon her arrival at Singapore, conducted a search, but no perpetrators were found onboard. Information of the incident was shared with the Indonesian authorities.\n[Category 2]",
     "Consequences for crew etc": "The Chief Engineer’s hands were tied with rubber tubing and experienced pain in the wrists. \n\nSome engine spares were stolen.",
     "Action taken by master/crew": "The alarm was raised and all ship crew mustered to conduct a search.",
@@ -148,7 +164,9 @@
     "Reported to...": "The incident was reported to VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcasts on anti-piracy watch were initiated to warn all ships to maintain a vigilant watch at all times in the Singapore Strait. The RSN’s MSTF and Singapore PCG were notified of the incident. The PCG boarded the ship at the anchorage upon her arrival at Singapore, conducted a search, but no perpetrators were found onboard. Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 344
+    "MSC/Circ": 344,
+    "Latitude_dd": 1.1667,
+    "Longitude_dd": 103.8167
   },
   {
     "Date": "2025-01-22",
@@ -156,8 +174,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9749867",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.90' N",
+    "Longitude": "103° 36.70' E",
     "Incident details": "*(ReCAAP) While underway, five to six perpetrators armed with gun-like objects and knives were sighted in the engine room. The alarm was raised and a search was conducted. No perpetrator was found onboard. All crew members were accounted for with no injuries. Some generator parts were found missing. \n\nThe incident was reported to Singapore Vessel Traffic Information System (VTIS) West. Safety broadcast was initiated. The Republic of Singapore Navy (RSN) and Singapore Police Coast Guard (PCG) were notified of the incident. PCG boarded the ship upon her arrival at the anchorage. No perpetrator was found. Information of the incident was shared with the Indonesian authorities. \n\n*(IMBKL) Six robbers armed with a gun and long knives boarded a bulk carrier underway. They entered the engine room and took the 2/E and a wiper hostage and tied them up in the engine room workshop. One of the robbers stood guard over the crew while the others stole spare parts prior to escaping. The 2/E managed to free himself and informed the Master, who then contacted the VTIS. The C/E, Bosun and an AB were tasked with searching the vessel, but no robbers were found. The vessel was escorted to the anchorage area by a warship and two coast guard vessels, where the coast guard conducted an inspection.",
     "Consequences for crew etc": "The crew was not injured. \n\nSome generator parts were found missing. \n",
     "Action taken by master/crew": "The alarm was raised and a search was conducted with no sighting of perpetrators.\n",
@@ -165,7 +183,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS West.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast was initiated. RSN and PCG were notified of the incident. PCG boarded the ship upon her arrival at the anchorage. No perpetrator was found. Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 344
+    "MSC/Circ": 344,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6
   },
   {
     "Date": "2025-01-23",
@@ -173,8 +193,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9476537",
     "Area": "In port area",
-    "Latitude": 1,
-    "Longitude": 116,
+    "Latitude": "1° 21.89' S",
+    "Longitude": "116° 58.70' E",
     "Incident details": "Six robbers armed with hammers boarded an anchored ship. Duty crew on routine rounds spotted the robbers and informed the bridge. Alarm raised and crew mustered. Seeing the crew's alertness, the robbers escaped empty-handed. The incident was reported to Balikpapan VTS, who then dispatched a patrol boat to the vessel.",
     "Consequences for crew etc": "Nil",
     "Action taken by master/crew": "Alarmed raised, crew mustered, and informed VTS",
@@ -182,7 +202,9 @@
     "Reported to...": "Balikpapan VTS",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Patrol boat was dispatched around the vicinity",
-    "MSC/Circ": 344
+    "MSC/Circ": 344,
+    "Latitude_dd": -1.35,
+    "Longitude_dd": 116.9667
   },
   {
     "Date": "2025-01-26",
@@ -190,8 +212,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9591703",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.20' N",
+    "Longitude": "103° 39.70' E",
     "Incident details": "While underway, five perpetrators were sighted on the poop deck. The alarm was raised and all crew mustered to conduct a search. No perpetrator was found onboard. All crew members were accounted for with no injuries. Nothing was stolen. \n\nThe incident was reported to Singapore VTIS West. Safety broadcast was initiated. RSN and PCG were notified of the incident. PCG boarded the ship upon her arrival at the anchorage. A search was conducted and no perpetrator was found. Information of the incident was shared with the Indonesian authorities. \n\n[Category 4]",
     "Consequences for crew etc": "The crew was not injured.\n\nNothing was stolen. \n",
     "Action taken by master/crew": "The alarm was raised and crew mustered to conduct a search onboard with no sighting of perpetrators.",
@@ -199,7 +221,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS West.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast was initiated. RSN and PCG were notified of the incident. PCG boarded the ship upon her arrival at the anchorage. A search was conducted and no perpetrator was found. Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 344
+    "MSC/Circ": 344,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.65
   },
   {
     "Date": "2025-01-26",
@@ -207,8 +231,8 @@
     "Ship Type": "General cargo ship",
     "IMO No.": "9074822",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.29' N",
+    "Longitude": "103° 40.20' E",
     "Incident details": "While underway, two perpetrators armed with a gun-like object were sighted on the poop deck. The general alarm was raised and all crew mustered to conduct a search. No perpetrator was found onboard. All crew members were accounted for with no injuries. Some engine spares were stolen. \n\nThe incident was reported to Singapore VTIS West. Safety broadcast was initiated. RSN and PCG were notified of the incident. PCG boarded the ship upon her arrival at the anchorage. A search was conducted and no perpetrator was found. Information of the incident was shared with the Indonesian authorities. \n\n[Category 3]\n",
     "Consequences for crew etc": "The crew was not injured. \n\nSome engine spares were stolen.",
     "Action taken by master/crew": "The general alarm was raised and crew mustered to conduct a search onboard with no sighting of perpetrators.",
@@ -216,7 +240,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS West.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast was initiated. RSN and PCG were notified of the incident. PCG boarded the ship upon her arrival at the anchorage. A search was conducted and no perpetrator was found. Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 344
+    "MSC/Circ": 344,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6667
   },
   {
     "Date": "2025-01-27",
@@ -224,8 +250,8 @@
     "Ship Type": "Tanker",
     "IMO No.": "9285718",
     "Area": "In port area",
-    "Latitude": 16,
-    "Longitude": 82,
+    "Latitude": "16° 54.54' N",
+    "Longitude": "82° 25.27' E",
     "Incident details": "Duty AB on routine rounds onboard an anchored tanker noticed two unlit boats near the bow and an unauthorised person on the forecastle deck. Alarm raised, ship’s horn sounded, crew mustered and moved towards the forecastle. Seeing the alerted crew the person escaped with stolen stores.",
     "Consequences for crew etc": "Ship’s stores stolen",
     "Action taken by master/crew": "Alarm raised, ship’s horn sounded, crew mustered and moved towards the forecastle",
@@ -233,7 +259,9 @@
     "Reported to...": "Port Control",
     "Reporting State": "India",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 344
+    "MSC/Circ": 344,
+    "Latitude_dd": 16.9,
+    "Longitude_dd": 82.4167
   },
   {
     "Date": "2025-01-28",
@@ -241,8 +269,8 @@
     "Ship Type": "Tanker",
     "IMO No.": "9941879",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 07.00' N",
+    "Longitude": "103° 44.59' E",
     "Incident details": "Duty crew onboard the tanker underway noticed a wooden boat approaching, hooking on a ladder and three unauthorised individuals armed with long knives boarding. Alarm raised, all lights switched on and crew mustered. Hearing the alerted crew the individuals escaped. Incident reported to VTIS Central. Crew conducted a search, nothing was reported missing.",
     "Consequences for crew etc": "NIL",
     "Action taken by master/crew": "Alarm raised, all lights switched on and crew mustered",
@@ -250,7 +278,9 @@
     "Reported to...": "VTIS Central",
     "Reporting State": "Indonesia",
     "Coastal State Action Taken": "Port police boarded the tanker and conducted onsite check",
-    "MSC/Circ": 344
+    "MSC/Circ": 344,
+    "Latitude_dd": 1.1167,
+    "Longitude_dd": 103.7333
   },
   {
     "Date": "2025-02-01",
@@ -258,8 +288,8 @@
     "Ship Type": "Oil product tanker",
     "IMO No.": "9397896",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 07.80' N",
+    "Longitude": "103° 45.00' E",
     "Incident details": "While underway, an engine department crew member sighted five perpetrators coming out of the engine room. The engineer immediately reported to the chief engineer, who then informed the bridge.  The alarm was raised and a search was conducted with no perpetrators found. A surveillance camera recording in the engine room also revealed the perpetrators coming out of the engine room. The crew was not injured. Nothing was stolen. \n\nThe incident was reported to the Maritime and Port Authority of Singapore (MPA). The shipping company also reported the incident to the Maritime Bureau of the Ministry of Land, Infrastructure, Transport and Tourism (MLIT) of Japan.\n\n[Category 4]\n",
     "Consequences for crew etc": "The crew was not injured. \n\nNothing was stolen\n",
     "Action taken by master/crew": "The alarm was raised and a search was conducted with no perpetrators found.",
@@ -267,7 +297,9 @@
     "Reported to...": "The incident was reported to MPA.",
     "Reporting State": "Japan",
     "Coastal State Action Taken": "No information available",
-    "MSC/Circ": 345
+    "MSC/Circ": 345,
+    "Latitude_dd": 1.1167,
+    "Longitude_dd": 103.75
   },
   {
     "Date": "2025-02-01",
@@ -275,15 +307,17 @@
     "Ship Type": "General cargo ship",
     "IMO No.": "9570656",
     "Area": "In international waters",
-    "Latitude": 2,
-    "Longitude": 9,
+    "Latitude": "2° 02.00' N",
+    "Longitude": "9° 07.00' E",
     "Incident details": "Three armed pirates boarded the ship underway. Alert crew raised the alarm, sent a distress alert via VHF radio and all crew retreated into the citadel. Once the pirates left the ship the crew emerged from the citadel and sailed to a safe port. The crew noticed on radar a target which appeared to be following the ship. After a while the target disappeared. All crew reported safe. Authorities are investigating the incident.",
     "Consequences for crew etc": "All crew retreated into the citadel",
     "Action taken by master/crew": "Alert crew raised the alarm, sent a distress alert via VHF radio and all crew retreated into the citadel",
     "Reported?": true,
     "Reported to...": "NA",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 345
+    "MSC/Circ": 345,
+    "Latitude_dd": 2.0333,
+    "Longitude_dd": 9.1167
   },
   {
     "Date": "2025-02-02",
@@ -291,8 +325,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9873280",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 02.78' N",
+    "Longitude": "103° 39.34' E",
     "Incident details": "Four robbers armed with gun and knives boarded the ship underway. 3/E was taken hostage and tied up in the engine room. The 3/E managed to escape and informed the Master. Alarm raised, ship’s horn sounded, and crew mustered. Seeing the alerted crew, the robbers escaped with stolen engine spares. The incident was reported to VTIS West.",
     "Consequences for crew etc": "3/E was taken hostage and tied up in the engine room.\nShip’s engine spares were stolen\n",
     "Action taken by master/crew": "Alarm raised, ship’s horn sounded, and crew mustered",
@@ -300,7 +334,9 @@
     "Reported to...": "VTIS West",
     "Reporting State": "Indonesia",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 345
+    "MSC/Circ": 345,
+    "Latitude_dd": 1.0333,
+    "Longitude_dd": 103.65
   },
   {
     "Date": "2025-02-02",
@@ -308,8 +344,8 @@
     "Ship Type": "Product tanker",
     "IMO No.": "9132856",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 06.00' N",
+    "Longitude": "103° 45.00' E",
     "Incident details": "Six robbers armed with knives boarded the tanker underway. They entered the engine room, took the 2/E and 3/E hostage, and tied them up. The robbers stole engine spares prior to escaping. Alarm raised and crew mustered. The incident was reported to VTIS West and Central",
     "Consequences for crew etc": "2/E and 3/E were taken hostage and tied up.\nShip’s engine spares were stolen\n",
     "Action taken by master/crew": "Alarm raised and crew mustered",
@@ -317,15 +353,17 @@
     "Reported to...": "VTIS West and Central",
     "Reporting State": "Indonesia",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 345
+    "MSC/Circ": 345,
+    "Latitude_dd": 1.1,
+    "Longitude_dd": 103.75
   },
   {
     "Date": "2025-02-07",
     "Ship Name": "Al Najma No.481",
     "Ship Type": "Dhow",
     "Area": "In territorial waters",
-    "Latitude": 7,
-    "Longitude": 49,
+    "Latitude": "7° 54.00' N",
+    "Longitude": "49° 56.00' E",
     "Incident details": "Six persons boarded and hijacked the dhow and took its crew including a Somali guard, hostage. The guard was later released. Authorities are investigating the incident.\n\nReports indicate the perpetrators left the dhow on or before 13 February 2025, after stealing crew personal effects. All crew safe.",
     "Consequences for crew etc": "Crew personal effects were stolen",
     "Action taken by master/crew": "NA",
@@ -333,7 +371,9 @@
     "Reported to...": "NA",
     "Reporting State": "Somalia",
     "Coastal State Action Taken": "Eunavfor Atalanta assets spotted the dhow that was abandoned by the hijackers",
-    "MSC/Circ": 345
+    "MSC/Circ": 345,
+    "Latitude_dd": 7.9,
+    "Longitude_dd": 49.9333
   },
   {
     "Date": "2025-02-14",
@@ -341,8 +381,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9587269",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 04.34' N",
+    "Longitude": "103° 41.11' E",
     "Incident details": "While underway, four perpetrators, of whom one carried gun and three carried knives, were sighted in the engine room. The alarm was raised and all crew mustered to conduct a search with no further sighting of perpetrators. The crew was not injured and nothing was stolen. \n\nThe incident was reported to Singapore VTIS. Safety navigational broadcast was initiated. The RSN’s MSTF and Singapore PCG were notified of the incident. Singapore PCG boarded the ship, conducted a search, and no perpetrator was found. Information of the incident was shared with the Indonesian authorities. \n\n[Category 2]",
     "Consequences for crew etc": "The crew was not injured.\n\nNothing was stolen. \n",
     "Action taken by master/crew": "The alarm was raised and crew mustered to conduct a search with no further sighting of perpetrators.",
@@ -350,7 +390,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast was initiated. The RSN’s MSTF and Singapore PCG were notified of the incident. Singapore PCG boarded the ship, conducted a search and no perpetrator was found. Information of the incident was shared with the Indonesian authorities",
-    "MSC/Circ": 345
+    "MSC/Circ": 345,
+    "Latitude_dd": 1.0667,
+    "Longitude_dd": 103.6833
   },
   {
     "Date": "2025-02-15",
@@ -358,8 +400,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9668879",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 05.50' N",
+    "Longitude": "103° 43.79' E",
     "Incident details": "Duty crew onboard a bulk carrier underway noticed three unauthorized individuals at the aft stations. Alarm raised and crew mustered. Seeing the crew alertness, the individuals escaped empty handed. The incident reported to VTIS. Upon anchoring, the vessel was boarded by the coast guard for investigations.",
     "Consequences for crew etc": "Nil",
     "Action taken by master/crew": "Alarm raised and crew mustered",
@@ -367,7 +409,9 @@
     "Reported to...": "Singapore VTIS",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Coast guard boarded the vessel for investigations",
-    "MSC/Circ": 345
+    "MSC/Circ": 345,
+    "Latitude_dd": 1.0833,
+    "Longitude_dd": 103.7167
   },
   {
     "Date": "2025-02-16",
@@ -375,15 +419,17 @@
     "Ship Type": "General cargo ship",
     "IMO No.": "9401790",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.72' N",
+    "Longitude": "103° 41.22' E",
     "Incident details": "While underway, four perpetrators armed with long knives were sighted boarding from the portside quarter and heading to the engine room. The master raised the alarm and all crew mustered to conduct a search. The crew was not injured. Some electrical and engine room items were stolen.\n\n[Category 3]\n",
     "Consequences for crew etc": "The crew was not injured.\n\nSome electrical and engine room items were stolen.\n",
     "Action taken by master/crew": "The crew was not injured.\n\nSome electrical and engine room items were stolen.",
     "Reported?": false,
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Not known",
-    "MSC/Circ": 345
+    "MSC/Circ": 345,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6833
   },
   {
     "Date": "2025-02-16",
@@ -391,8 +437,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9668879",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 05.76' N",
+    "Longitude": "103° 43.93' E",
     "Incident details": "While underway, three perpetrators were sighted at the aft station. Upon raising the emergency alarm, the three perpetrators escaped from the ship. A security search was conducted onboard. The crew was not injured. Nothing was stolen. \n\nThe incident was reported to Singapore VTIS. Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Singapore PCG boarded the ship upon her arrival at Singapore bunkering anchorage. A search was conducted and no perpetrator was found. Information of the incident was shared with the Indonesian authorities. \n[Category 4]",
     "Consequences for crew etc": "The crew was not injured. \n\nNothing was stolen.  \n",
     "Action taken by master/crew": "The alarm was raised and crew mustered to conduct a search onboard.",
@@ -400,7 +446,54 @@
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Singapore PCG boarded the ship upon her arrival at the Singapore bunkering anchorage. A search was conducted and no perpetrator was found. Information of the incident was shared with the Indonesian authorities.",
+    "MSC/Circ": 345,
+    "Latitude_dd": 1.0833,
+    "Longitude_dd": 103.7167
+  },
+  {
+    "Date": "2025-02-17",
+    "Ship Name": "Saytuun 2",
+    "Ship Type": "Fishing vessel",
+    "Area": "In territorial waters",
+    "Incident details": "Six armed pirates hijacked the fishing vessel and took the Captain and four crew members as hostage. The remaining crew were released. Reports suggest the vessel may be used as a mothership for maritime criminal activities.. On 23 February 2025, a Spanish naval vessel identified the fishing vessel and boarded it. The crew indicated that the pirates had left the vessel. All crew safe.",
+    "Consequences for crew etc": "The fishing vessel was hijacked. The Captain and four crew members were taken as hostages",
+    "Action taken by master/crew": "NA",
+    "Reported?": true,
+    "Reported to...": "Puntland Police, Somalia",
+    "Coastal State Action Taken": "On 23.02.2025, a Spanish naval vessel boarded the fishing vessel after identifying it. The crew confirmed that the pirates had already left, and all crew members were found to be safe.\n",
     "MSC/Circ": 345
+  },
+  {
+    "Date": "2025-02-22",
+    "Ship Name": "Cycladic Spire",
+    "Ship Type": "Bulk carrier",
+    "IMO No.": "9609330",
+    "Area": "In territorial waters",
+    "Latitude": "1° 02.75' N",
+    "Incident details": "While underway, three perpetrators armed with knives and gun-like object were sighted in the engine room. The emergency alarm was raised and crew mustered. A security search was conducted and no perpetrators were found.  The crew was not injured. Some engine spares were stolen. \n\nThe incident was reported to Singapore Vessel Traffic Information System (VTIS). Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the Singapore Strait (SS). The Republic of Singapore Navy’s (RSN) Maritime Security Task Force (MSTF) and Singapore Police Coast Guard (PCG) were notified of the incident. Singapore PCG boarded the ship upon her arrival in Singapore. A search was conducted and no perpetrator was found. Information of the incident was shared with the Indonesian authorities. \n\n[Category 3]\n",
+    "Consequences for crew etc": "The crew was not injured. \n\nSome engine spares were stolen.  \n",
+    "Action taken by master/crew": "The emergency alarm was raised and crew mustered to conduct a security search onboard",
+    "Reported?": true,
+    "Reported to...": "The incident was reported to Singapore VTIS.",
+    "Reporting State": "Singapore",
+    "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Singapore PCG boarded the ship upon Darrival in Singapore. A search was conducted and no perpetrator was found. Information of the incident was shared with the Indonesian authorities.",
+    "MSC/Circ": 345,
+    "Latitude_dd": 1.0333
+  },
+  {
+    "Date": "2025-02-23",
+    "Ship Name": "Imke",
+    "Ship Type": "General cargo ship",
+    "IMO No.": "9501899",
+    "Area": "In port area",
+    "Incident details": "Duty crew onboard the berthed ship noticed storerooms broken into and ship’s stores and properties stolen.",
+    "Consequences for crew etc": "Ship’s stores and properties stolen",
+    "Action taken by master/crew": "NA",
+    "Reported?": true,
+    "Reported to...": "Local Agent",
+    "Reporting State": "Nigeria",
+    "Coastal State Action Taken": "NA",
+    "MSC/Circ": 346
   },
   {
     "Date": "2025-02-24",
@@ -408,8 +501,8 @@
     "Ship Type": "Product tanker",
     "IMO No.": "9895927",
     "Area": "In port area",
-    "Latitude": 4,
-    "Longitude": 1,
+    "Latitude": "4° 53.00' N",
+    "Longitude": "1° 42.00' W",
     "Incident details": "Duty crew onboard an anchored tanker spotted two unauthorised persons. Alarm raised and port control notified resulting in the persons escaping without stealing anything.",
     "Consequences for crew etc": "Nil",
     "Action taken by master/crew": "Alarm raised and port control notified",
@@ -417,7 +510,9 @@
     "Reported to...": "Port Control",
     "Reporting State": "Ghana",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 345
+    "MSC/Circ": 345,
+    "Latitude_dd": 4.8833,
+    "Longitude_dd": -1.7
   },
   {
     "Date": "2025-02-25",
@@ -425,8 +520,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9967134",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 05.96' N",
+    "Longitude": "103° 44.15' E",
     "Incident details": "Duty crew onboard the ship underway noticed a skiff in the vicinity of the ship. Three unauthorised persons were noticed onboard and attempting to open the accommodation doors. Alarm raised, resulting in the persons escaping without stealing anything. VTIS Central informed. Upon anchoring the coast guard boarded the ship for inspection.",
     "Consequences for crew etc": "NIL",
     "Action taken by master/crew": "An emergency alarm was raised, and the crew used flashlights to deter the persons from opening the accommodation doors and ISPS grill door",
@@ -434,7 +529,9 @@
     "Reported to...": "VTIS Central",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "The coast guard boarded the ship at AEBB anchorage for inspection",
-    "MSC/Circ": 345
+    "MSC/Circ": 345,
+    "Latitude_dd": 1.0833,
+    "Longitude_dd": 103.7333
   },
   {
     "Date": "2025-02-27",
@@ -442,8 +539,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9574133",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 06.19' N",
+    "Longitude": "103° 43.90' E",
     "Incident details": "Duty crew onboard a bulk carrier underway spotted six robbers armed with a hammer in the engine room workshop. Alarm raised, crew mustered and a search was conducted. Incident reported to Singapore Coast Guard who then escorted the vessel. All crew safe and nothing reported stolen.",
     "Consequences for crew etc": "Nil",
     "Action taken by master/crew": "Alarm raised, crew mustered and a search was conducted",
@@ -451,7 +548,9 @@
     "Reported to...": "Singapore Coast Guard",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "A patrol vessel escorted the ship",
-    "MSC/Circ": 345
+    "MSC/Circ": 345,
+    "Latitude_dd": 1.1,
+    "Longitude_dd": 103.7167
   },
   {
     "Date": "2025-02-27",
@@ -459,8 +558,8 @@
     "Ship Type": "General cargo ship",
     "IMO No.": "9303601",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 05.59' N",
+    "Longitude": "103° 43.50' E",
     "Incident details": "Five robbers in a fishing boat boarded a ship underway and entered the engine room. They threatened the 2/E with a gun, instructing him to move away. The 2/E retreated and raised the alarm. Crew mustered and a search was conducted. Ship's property was reported stolen. The incident was reported to local authorities.",
     "Consequences for crew etc": "2/E was threatened with a gun. Ship's property was reported stolen",
     "Action taken by master/crew": "Alarm raised, crew mustered and a search was conducted",
@@ -468,7 +567,9 @@
     "Reported to...": "Singapore VTIS",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 345
+    "MSC/Circ": 345,
+    "Latitude_dd": 1.0833,
+    "Longitude_dd": 103.7167
   },
   {
     "Date": "2025-02-28",
@@ -476,8 +577,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9268916",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 04.19' N",
+    "Longitude": "103° 41.70' E",
     "Incident details": "Four robbers armed with a gun and knives boarded a ship underway. They entered the engine room, threatened one crew, stole engine spares and escaped. The crew informed the Master. General alarm raised, PA announcement made and SSAS activated. Incident reported to VTIS. Upon anchoring, the vessel was boarded by the coast guard for investigations.",
     "Consequences for crew etc": "One crew was threatened and engine’s spares were stolen",
     "Action taken by master/crew": "Alarm raised, PA announcement made and SSAS activated",
@@ -485,7 +586,9 @@
     "Reported to...": "Singapore VTIS & Singapore Police Coast Guard",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "A patrol boat was dispatched and boarded for investigation",
-    "MSC/Circ": 345
+    "MSC/Circ": 345,
+    "Latitude_dd": 1.0667,
+    "Longitude_dd": 103.6833
   },
   {
     "Date": "2025-03-02",
@@ -493,8 +596,8 @@
     "Ship Type": "Tanker",
     "IMO No.": "9232888",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.79' N",
+    "Longitude": "103° 41.09' E",
     "Incident details": "Four masked robbers armed with a gun and knives boarded a tanker underway and entered the engine room. The duty engine crew noticed the robbers and alerted the bridge officer, who raised the alarm, mustered the crew and notified VTIS. Upon hearing the alarm, the robbers escaped with stolen engine spares. On anchoring the coast guard boarded the vessel for investigations.",
     "Consequences for crew etc": "Engine spares stolen",
     "Action taken by master/crew": "Alarm raised, crew mustered and VTIS notified",
@@ -502,7 +605,9 @@
     "Reported to...": "Singapore VTIS",
     "Reporting State": "Indonesia",
     "Coastal State Action Taken": "The coast guard boarded the vessel for investigations",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6833
   },
   {
     "Date": "2025-03-07",
@@ -510,15 +615,17 @@
     "Ship Type": "Tug",
     "IMO No.": "9767120",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 104,
+    "Latitude": "1° 17.53' N",
+    "Longitude": "104° 20.54' E",
     "Incident details": "While the tug boat towing barge was underway, three perpetrators boarded the barge from a sampan and stole some scrap metals from the barge.\n \nAt the time of the incident, HK Tug 9 and LKH 7887 were escorted by another Singapore-registered tug boat, HK Tug 3. The Singapore Vessel Traffic Information System (VTIS) confirmed with HK Tug 3.that the incident had occurred.\n\nThe Master confirmed that all three perpetrators had disembarked from the barge. The crew was not injured and there was no damage to the vessel.\n",
     "Consequences for crew etc": "The crew was not injured. \n\nSome scrap metals were stolen. \n",
     "Action taken by master/crew": "No information available",
     "Reported?": false,
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "No information available",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 1.2833,
+    "Longitude_dd": 104.3333
   },
   {
     "Date": "2025-03-08",
@@ -526,15 +633,17 @@
     "Ship Type": "General cargo ship",
     "IMO No.": "9587788",
     "Area": "In port area",
-    "Latitude": 6,
-    "Longitude": 106,
+    "Latitude": "6° 05.80' S",
+    "Longitude": "106° 53.09' E",
     "Incident details": "While at berth, six perpetrators in a boat boarded the ship and damaged the entrance door to the wheelhouse and the anti-piracy grating. Generator spare parts were stolen. The crew was not injured.",
     "Consequences for crew etc": "The crew was not injured. \n\nSome generator spare parts were stolen. \n",
     "Action taken by master/crew": "Not stated.",
     "Reported?": true,
     "Reported to...": "Not stated.",
     "Coastal State Action Taken": "Not stated.",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": -6.0833,
+    "Longitude_dd": 106.8833
   },
   {
     "Date": "2025-03-08",
@@ -542,8 +651,8 @@
     "Ship Type": "Container ship",
     "IMO No.": "9777606",
     "Area": "In international waters",
-    "Latitude": 2,
-    "Longitude": 80,
+    "Latitude": "2° 53.00' S",
+    "Longitude": "80° 30.00' W",
     "Incident details": "Duty crew onboard a container ship underway spotted two unlit skiffs approaching rapidly. The Master alerted the authorities, increased ship’s speed and commenced evasive manoeuvres resulting in the skiffs abandoning their attempt to board.",
     "Consequences for crew etc": "NIL",
     "Action taken by master/crew": "The Master alerted the authorities, increased ship’s speed and commenced evasive manoeuvres.",
@@ -551,7 +660,9 @@
     "Reported to...": "Ecuador Coast Guard",
     "Reporting State": "Ecuador",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": -2.8833,
+    "Longitude_dd": -80.5
   },
   {
     "Date": "2025-03-10",
@@ -559,8 +670,8 @@
     "Ship Type": "Tanker",
     "IMO No.": "9299678",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 05.59' N",
+    "Longitude": "103° 43.29' E",
     "Incident details": "Six robbers armed with guns boarded a tanker underway. They entered the engine room and took the C/E and 3/E as hostage and tied them up in the engine room. Both C/E and 3/E managed to escape and immediately informed Bridge. Alarm raised, ship’s horn sounded and crew mustered. Seeing the alerted crew, the robbers escaped empty handed. The incident reported to VTIS. All crew safe are reported safe.",
     "Consequences for crew etc": "C/E and 3/E were taken as hostages",
     "Action taken by master/crew": "Alarm raised, ship’s horn sounded, and crew mustered",
@@ -568,15 +679,17 @@
     "Reported to...": "Singapore VTIS",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 1.0833,
+    "Longitude_dd": 103.7167
   },
   {
     "Date": "2025-03-12",
     "Ship Name": "Name Withheld",
     "Ship Type": "Container ship",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 06.59' N",
+    "Longitude": "103° 44.90' E",
     "Incident details": "Four robbers armed with guns and knives boarded the ship underway and entered the engine room. They took hostage two duty oilers, tied them up and locked them in the CO2 room before escaping with stolen engine spares. The 2/E discovered the oilers and freed them. Alarm raised, crew mustered and a search was carried out. Incident reported to ship’s superintendent.",
     "Consequences for crew etc": "Two duty oilers taken as hostage and engine spares stolen",
     "Action taken by master/crew": "Alarm raised, crew mustered and a search was carried out",
@@ -584,7 +697,9 @@
     "Reported to...": "Incident reported to ship’s superintendent",
     "Reporting State": "Indonesia",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 1.1,
+    "Longitude_dd": 103.7333
   },
   {
     "Date": "2025-03-13",
@@ -592,8 +707,8 @@
     "Ship Type": "Container ship",
     "IMO No.": "9914149",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 06.59' N",
+    "Longitude": "103° 44.90' E",
     "Incident details": "While underway, four perpetrators armed with guns and knives boarded the ship and entered the engine room. They tied two duty oilers and locked them in the CO2 room before they escaped with stolen engine spares. The second Engineer later discovered the duty oilers and freed them. The alarm was raised, crew mustered and a search onboard was conducted.",
     "Consequences for crew etc": "Two duty oilers were tied and locked up in the CO2 room.\n\nSome engine spares were stolen. \n",
     "Action taken by master/crew": "The alarm was raised and crew mustered to conduct a search onboard.",
@@ -601,7 +716,9 @@
     "Reported to...": "Not stated",
     "Reporting State": "Hong Kong, China",
     "Coastal State Action Taken": "Not stated.",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 1.1,
+    "Longitude_dd": 103.7333
   },
   {
     "Date": "2025-03-13",
@@ -609,8 +726,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9587269",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 04.48' N",
+    "Longitude": "103° 41.38' E",
     "Incident details": "Four armed robbers in a skiff approached and boarded a laden ship underway and entered the engine room. Alert duty oiler noticed the robbers, secured himself in the engine control room and alerted the bridge. Alarm raised, PA announcement made, SSAS activated and VTIS West notified. After around one hour, the crew made a search. No robbers were found on board, and nothing reported stolen. As a precaution, a patrol vessel escorted the ship to the anchorage area where an inspection was carried out.",
     "Consequences for crew etc": "Nil",
     "Action taken by master/crew": "Alarm raised, PA announcement made and SSAS activated",
@@ -618,7 +735,9 @@
     "Reported to...": "VTIS West",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "A patrol vessel escorted the ship to the anchorage area where an inspection was carried out",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 1.0667,
+    "Longitude_dd": 103.6833
   },
   {
     "Date": "2025-03-14",
@@ -626,8 +745,8 @@
     "Ship Type": "Container ship",
     "IMO No.": "9745653",
     "Area": "In international waters",
-    "Latitude": 11,
-    "Longitude": 74,
+    "Latitude": "11° 48.90' N",
+    "Longitude": "74° 25.70' W",
     "Incident details": "Duty crew onboard a ship underway noticed two small boats secured to the aft of the vessel and eight unauthorized persons on board stealing ropes. Master raised the alarm, ship's speed increased, authorities notified, and non-essential crew gathered in the citadel. The coast guard communicated with the ship via VHF channel 16 and directed the Master to head to Santa Marta for inspection. All crew members safe.",
     "Consequences for crew etc": "Ship’s stores stolen",
     "Action taken by master/crew": "Alarm raised, increased ship’s speed, and non-essential crew gathered in the citadel",
@@ -635,6 +754,21 @@
     "Reported to...": "Colombia Coast Guard",
     "Reporting State": "Colombia",
     "Coastal State Action Taken": "NA",
+    "MSC/Circ": 346,
+    "Latitude_dd": 11.8,
+    "Longitude_dd": -74.4167
+  },
+  {
+    "Date": "2025-03-16",
+    "Ship Name": "Al-Hidaya 1",
+    "Ship Type": "Fishing vessel",
+    "Area": "In territorial waters",
+    "Incident details": "Armed pirates have taken eight crew members hostage and hijacked the fishing vessel underway. The incident is under investigation",
+    "Consequences for crew etc": "The fishing vessel was hijacked and 8 crew members were taken as hostage",
+    "Action taken by master/crew": "NA",
+    "Reported?": true,
+    "Reported to...": "NA",
+    "Coastal State Action Taken": "The incident under investigation",
     "MSC/Circ": 346
   },
   {
@@ -643,8 +777,8 @@
     "Ship Type": "Tug",
     "IMO No.": "9429780",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 104,
+    "Latitude": "1° 17.54' N",
+    "Longitude": "104° 09.43' E",
     "Incident details": "While underway and approaching Pilot Eastern Boarding Ground “A” (PEBGA) pilot station, the master of the tug boat discovered items missing from the vessels. The doors of the containers on the barge were pried open and seals were cut. Missing items included anchor windlass battery, gangway ladder from barge and various items from containers on the barge. All crew were accounted for with no injuries reported. The master immediately reported the incident to his local agent.\n\nSafety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the Singapore Strait (SS). The Republic of Singapore Navy’s (RSN) Maritime Security Task Force (MSTF) and Singapore Police Coast Guard (PCG) were notified of the incident. Information of the incident was shared with the Malaysian authorities. Singapore PCG boarded the ship at anchorage and conducted a search, with no perpetrators found.\n",
     "Consequences for crew etc": "The crew was not injured. \n\nAnchor windlass battery, gangway ladder from barge and various items from containers on the barge were stolen.\n",
     "Action taken by master/crew": "The master reported the incident to the local agent.",
@@ -652,7 +786,9 @@
     "Reported to...": "Singapore Port Operations Control Centre (POCC) received information from Singapore Police PCG.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Malaysian authorities. Singapore PCG boarded the ship at anchorage and conducted a search, with no perpetrators found.",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 1.2833,
+    "Longitude_dd": 104.15
   },
   {
     "Date": "2025-03-16",
@@ -660,8 +796,8 @@
     "Ship Type": "Tug",
     "IMO No.": "8979221",
     "Area": "In international waters",
-    "Latitude": 1,
-    "Longitude": 104,
+    "Latitude": "1° 29.29' N",
+    "Longitude": "104° 30.39' E",
     "Incident details": "While underway, two sampans were spotted alongside the barge. The master raised the general alarm and conducted a search. No perpetrators were found on board.  The crew was not injured. Some scrap metal was stolen. \n\nThe incident was reported to Singapore VTIS. Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Malaysian authorities.",
     "Consequences for crew etc": "The crew was not injured. \n\nSome scrap metal was stolen.",
     "Action taken by master/crew": "The master raised the general alarm and conducted a search. No perpetrators were found on board.",
@@ -669,7 +805,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Malaysian authorities.",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 1.4833,
+    "Longitude_dd": 104.5
   },
   {
     "Date": "2025-03-17",
@@ -677,8 +815,8 @@
     "Ship Type": "Tug",
     "IMO No.": "8979221",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 12.27' N",
+    "Longitude": "103° 34.02' E",
     "Incident details": "While underway, three perpetrators from a sampan were spotted boarding the barge. The master raised the general alarm, after which the perpetrators left the barge. A search was conducted and some scrap metal was stolen. The crew was not injured. \n\nThe incident was reported to Singapore VTIS. Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Malaysian authorities. \n",
     "Consequences for crew etc": "The crew was not injured. \n\nSome scrap metal was stolen.  \n",
     "Action taken by master/crew": "The master raised the general alarm and conducted a search.",
@@ -686,15 +824,17 @@
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Malaysian authorities.",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 1.2,
+    "Longitude_dd": 103.5667
   },
   {
     "Date": "2025-03-17",
     "Ship Name": "Name Withheld",
     "Ship Type": "Tanker",
     "Area": "In international waters",
-    "Latitude": 1,
-    "Longitude": 8,
+    "Latitude": "1° 17.79' N",
+    "Longitude": "8° 01.10' E",
     "Incident details": "Ten armed pirates boarded and hijacked a tanker underway. They kidnapped 10 crew members including the Captain and Chief Engineer. The remaining crew members sailed the tanker to a safe port. The incident was reported to the authorities.",
     "Consequences for crew etc": "10 crew members including the Captain and Chief Engineer were kidnapped",
     "Action taken by master/crew": "General alarm raised, rushed to citadel, SSAS and distress signal sent and conduct evasive maneuvers",
@@ -702,7 +842,9 @@
     "Reported to...": "Local Authorities",
     "Reporting State": "Sao Tome and Principe",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 1.2833,
+    "Longitude_dd": 8.0167
   },
   {
     "Date": "2025-03-18",
@@ -710,8 +852,8 @@
     "Ship Type": "Container ship",
     "IMO No.": "9945356",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 05.00' N",
+    "Longitude": "103° 43.29' E",
     "Incident details": "Duty crew onboard a ship underway noticed two robbers armed with knives and notified the Master. General alarm raised and PA announcement made resulting in the robbers escaping with stolen ship’s stores. Incident reported to VTIS.",
     "Consequences for crew etc": "Ship’s stores stolen",
     "Action taken by master/crew": "General alarm raised and PA announcement made",
@@ -719,7 +861,9 @@
     "Reported to...": "Singapore VTIS",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Nil",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 1.0833,
+    "Longitude_dd": 103.7167
   },
   {
     "Date": "2025-03-21",
@@ -727,8 +871,8 @@
     "Ship Type": "Container ship",
     "IMO No.": "9896971",
     "Area": "In port area",
-    "Latitude": 22,
-    "Longitude": 70,
+    "Latitude": "22° 45.77' N",
+    "Longitude": "70° 02.47' E",
     "Incident details": "A group of six to seven unauthorised individuals boarded an anchored ship. Alert crew raised the alarm and proceeded towards the forecastle resulting in the persons escaping with stolen ship’s properties. The incident was reported to port control.",
     "Consequences for crew etc": "Ship’s properties stolen",
     "Action taken by master/crew": "Alarm raised",
@@ -736,15 +880,17 @@
     "Reported to...": "Port Control",
     "Reporting State": "India",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 22.75,
+    "Longitude_dd": 70.0333
   },
   {
     "Date": "2025-03-21",
     "Ship Name": "Name Withheld",
     "Ship Type": "Product tanker",
     "Area": "In port area",
-    "Latitude": 5,
-    "Longitude": 105,
+    "Latitude": "5° 33.34' S",
+    "Longitude": "105° 18.81' E",
     "Incident details": "Four unauthorised persons approached an anchored tanker. Duty crew noticed one person trying to board and raised the alarm resulting in the person abandoning the attempted boarding. The incident was reported to VTS.",
     "Consequences for crew etc": "NIL",
     "Action taken by master/crew": "Ship alarm raised",
@@ -752,7 +898,9 @@
     "Reported to...": "Port Control",
     "Reporting State": "Indonesia",
     "Coastal State Action Taken": "na\n",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": -5.55,
+    "Longitude_dd": 105.3
   },
   {
     "Date": "2025-03-23",
@@ -760,8 +908,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9749738",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 08.43' N",
+    "Longitude": "103° 46.36' E",
     "Incident details": "While underway, the master reported to Singapore Vessel Traffic Information System (VTIS) that two perpetrators carrying gun-like objects were sighted in the engine room of the ship. The emergency general alarm was raised and the ship crew conducted a search for the perpetrators, with no perpetrators found onboard. Nothing was stolen and the crew was not injured. \n\nSafety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. The Singapore PCG boarded the ship at anchorage and confirmed that no perpetrators were found and nothing was stolen. Information of the incident was shared with the Indonesian authorities. \n",
     "Consequences for crew etc": "The crew was not injured. \n\nNothing was stolen.  \n",
     "Action taken by master/crew": "The emergency general alarm was raised and the ship crew conducted a security search, with no perpetrators found onboard.",
@@ -769,7 +917,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. The Singapore PCG boarded the ship at anchorage and confirmed that no perpetrators were found and nothing was stolen. Information of the incident was shared with the Indonesian authorities",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 1.1333,
+    "Longitude_dd": 103.7667
   },
   {
     "Date": "2025-03-23",
@@ -777,8 +927,8 @@
     "Ship Type": "Tug",
     "IMO No.": "9689768",
     "Area": "In international waters",
-    "Latitude": 1,
-    "Longitude": 104,
+    "Latitude": "1° 24.89' N",
+    "Longitude": "104° 31.15' E",
     "Incident details": "While underway, the master reported to Singapore POCC that three perpetrators had boarded the barge from a small boat. After about 20 min, the perpetrators were seen leaving the barge. The crew was unable to determine any loss of property and the crew was not injured. \n\nSafety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authority. \n",
     "Consequences for crew etc": "The crew was not injured. \n\nThe crew was unable to determine any loss of property.\n",
     "Action taken by master/crew": "NA\n",
@@ -786,7 +936,9 @@
     "Reported to...": "The incident was reported to Singapore POCC.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authority.",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 1.4,
+    "Longitude_dd": 104.5167
   },
   {
     "Date": "2025-03-26",
@@ -794,8 +946,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9847097",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 08.69' N",
+    "Longitude": "103° 46.29' E",
     "Incident details": "While underway, four perpetrators attempted to board the ship from the port quarter via a wooden boat. The alarm was raised and search-light was shined at the perpetrators, who then escaped upon sighting. Crew mustered and a search was conducted onboard. Nothing was stolen except two-metre section of razor wire on the port quarter had been cut. The crew was not injured.\n\nThe incident was reported to Singapore VTIS. Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authorities. \n",
     "Consequences for crew etc": "The crew was not injured.\n\nNothing was stolen except two-metre section of razor wire on the port quarter had been cut. \n",
     "Action taken by master/crew": "Crew mustered and a search was conducted onboard.",
@@ -803,7 +955,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 1.1333,
+    "Longitude_dd": 103.7667
   },
   {
     "Date": "2025-03-27",
@@ -811,8 +965,8 @@
     "Ship Type": "Fishing vessel",
     "IMO No.": "8674039",
     "Area": "In international waters",
-    "Latitude": 5,
-    "Longitude": 0,
+    "Latitude": "5° 24.65' N",
+    "Longitude": "0° 01.98' W",
     "Incident details": "Five armed pirates boarded the fishing vessel. They fired three warning shots and ordered the crew to lay on the deck. They then stole crew mobile phones and properties and locked them in a cabin. Before escaping, the pirates damaged communication equipment and kidnapped three crew. On emerging from the cabin, the crew sailed to Tema.",
     "Consequences for crew etc": "Pirates fired three warning shots, ordered the crew to lay on the deck, stole crew mobile phones and properties and locked them in a cabin. Communication equipment were damaged",
     "Action taken by master/crew": "NA",
@@ -820,15 +974,17 @@
     "Reported to...": "Local Authorities",
     "Reporting State": "Ghana",
     "Coastal State Action Taken": "Investigating",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 5.4,
+    "Longitude_dd": -0.0167
   },
   {
     "Date": "2025-03-27",
     "Ship Name": "Name Withheld",
     "Ship Type": "Product tanker",
     "Area": "In international waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 07.80' N",
+    "Longitude": "103° 45.61' E",
     "Incident details": "Duty crew onboard a tanker underway spotted armed robbers entering the engine room through the steering gear room. Alarm raised and crew alerted. While making their escape with stolen ships’ engine spares the robbers attacked and seriously injured one crew. Vessel was diverted to Singapore anchorage where a medical team disembarked the injured crew for shore medical assistance. The coast guard boarded the ship to investigate.",
     "Consequences for crew etc": "One crew injured and ship’s engine spares stolen",
     "Action taken by master/crew": "Alarm raised",
@@ -836,7 +992,9 @@
     "Reported to...": "Port Control",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "The coast guard boarded the ship to investigate.  A medical team disembarked the injured crew for shore medical assistance",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 1.1167,
+    "Longitude_dd": 103.75
   },
   {
     "Date": "2025-03-28",
@@ -844,8 +1002,8 @@
     "Ship Type": "Container ship",
     "IMO No.": "9353931",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 09.44' N",
+    "Longitude": "103° 47.18' E",
     "Incident details": "While underway, four perpetrators were sighted going to the engine room from portside main deck. The master raised the alarm and crew mustered to conduct a search. The perpetrators escaped from the ship upon raising of the alarm. Some engine spares were stolen. The crew was not injured.\n\nThe incident was reported to Singapore Port Operations Control Centre (POCC) by master via email upon arrival to terminal. Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the Singapore Strait (SS). The Republic of Singapore Navy’s (RSN) Maritime Security Task Force (MSTF) and Singapore Police Coast Guard (PCG) were notified of the incident. Information of the incident was shared with the Indonesian authorities. The Singapore PCG boarded the ship for investigation and conducted a search onboard, with no perpetrators found.",
     "Consequences for crew etc": "The crew was not injured. \n\nSome engine spares were stolen.",
     "Action taken by master/crew": "The master raised the alarm and crew mustered to conduct a search.",
@@ -853,7 +1011,9 @@
     "Reported to...": "The incident was reported Singapore POCC",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety navigational broadcast was initiated. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authorities. The Singapore PCG boarded the ship for investigation and conducted a search onboard, with no perpetrators found.",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 1.15,
+    "Longitude_dd": 103.7833
   },
   {
     "Date": "2025-03-29",
@@ -861,8 +1021,8 @@
     "Ship Type": "Tanker",
     "IMO No.": "9602928",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 07.30' N",
+    "Longitude": "103° 44.91' E",
     "Incident details": "While underway, five perpetrators were sighted at the starboard quarter of the ship stern area. The master raised the general alarm and conducted a search. No perpetrators were found onboard.  The crew was not injured. Nothing was stolen. \n\nThe incident was reported to Singapore Vessel Traffic Information System (VTIS). Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authorities.",
     "Consequences for crew etc": "The crew was not injured. \n\nNothing was stolen\n",
     "Action taken by master/crew": "The master raised the general alarm and conducted a search. No perpetrators were found onboard.",
@@ -870,7 +1030,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 1.1167,
+    "Longitude_dd": 103.7333
   },
   {
     "Date": "2025-03-29",
@@ -878,8 +1040,8 @@
     "Ship Type": "Container ship",
     "IMO No.": "9871490",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 06.01' N",
+    "Longitude": "103° 44.09' E",
     "Incident details": "While underway, four perpetrators were sighted at the vessel stern area and a small boat was spotted on the starboard quarter of the ship. The master immediately raised the general alarm was raised and ordered a thorough search on board, with no further sighting of the perpetrators. Nothing was stolen and the crew was not injured.\n\nThe incident was reported to Singapore VTIS. Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. \n",
     "Consequences for crew etc": "The crew was not injured.\n\nNothing was stolen. \n",
     "Action taken by master/crew": "The master raised the general alarm and ordered to conduct a search onboard with no sighting of perpetrators",
@@ -887,7 +1049,9 @@
     "Reported to...": "The master raised the general alarm and ordered to conduct a search onboard with no sighting of perpetrators",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident.",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 1.1,
+    "Longitude_dd": 103.7333
   },
   {
     "Date": "2025-03-30",
@@ -895,8 +1059,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9664952",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 04.51' N",
+    "Longitude": "103° 42.47' E",
     "Incident details": "While underway, the duty engineer sighted one perpetrator armed with a gun-like object in the engine room. The master raised the general alarm and a search was conducted, with no further sighting of the perpetrators. The crew was not injured. Nothing was stolen.\n\nThe incident was reported to Singapore VTIS. Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. The Singapore PCG boarded the ship at anchorage to conduct a search with no perpetrators found. Information of the incident was shared with the Indonesian authorities.",
     "Consequences for crew etc": "The crew was not injured. \n\nNothing was stolen.  \n",
     "Action taken by master/crew": "The master raised the general alarm and a search was conducted.",
@@ -904,7 +1068,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. The Singapore PCG boarded the ship at anchorage to conduct a search with no perpetrators found. Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 1.0667,
+    "Longitude_dd": 103.7
   },
   {
     "Date": "2025-03-30",
@@ -912,8 +1078,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9548213",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 09.47' N",
+    "Longitude": "103° 47.06' E",
     "Incident details": "While underway, one perpetrator was sighted at the starboard quarter of the ship. The master raised the general alarm and a search was conducted. The perpetrator then jumped overboard. The crew was not injured. Nothing was stolen.\n\nThe incident was reported to Singapore VTIS. Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authorities. \n",
     "Consequences for crew etc": "The crew was not injured. \n\nNothing was stolen.  \n",
     "Action taken by master/crew": "The master raised the general alarm and a search was conducted.",
@@ -921,7 +1087,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 1.15,
+    "Longitude_dd": 103.7833
   },
   {
     "Date": "2025-03-30",
@@ -929,8 +1097,8 @@
     "Ship Type": "Container ship",
     "IMO No.": "9238612",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 05.38' N",
+    "Longitude": "103° 43.52' E",
     "Incident details": "While underway, three perpetrators were sighted on the port poop deck moving towards the aft station. Upon being spotted, the perpetrators jumped overboard and escaped in a small boat. The master raised the general alarm and a search was conducted. During the search, it was discovered that the air-conditioning room was accessed and a portable welding machine was missing.  The crew was not injured. \n\nThe incident was reported to Singapore VTIS. Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch. The Singapore PCG boarded the ship to conduct a search with no perpetrators found.",
     "Consequences for crew etc": "The crew was not injured. \n\nA portable welding machine was stolen.  \n",
     "Action taken by master/crew": "The master raised the general alarm and a search was conducted.",
@@ -938,7 +1106,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "The incident was reported to Singapore VTIS. Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch. The Singapore PCG boarded the ship to conduct a search with no perpetrators found.",
-    "MSC/Circ": 346
+    "MSC/Circ": 346,
+    "Latitude_dd": 1.0833,
+    "Longitude_dd": 103.7167
   },
   {
     "Date": "2025-04-02",
@@ -946,8 +1116,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9614385",
     "Area": "In territorial waters",
-    "Latitude": 18,
-    "Longitude": 72,
+    "Latitude": "18° 34.68' N",
+    "Longitude": "72° 27.15' W",
     "Incident details": "Armed individuals boarded the drifting ship. They assaulted a crew member with a gun. The other crew retreated into their cabins and the engine room. The assailants then abducted two crew members and escaped. The incident was reported to the Haitian coast guard.",
     "Consequences for crew etc": "A crew member was assaulted with a gun",
     "Action taken by master/crew": "Other crew retreated into their cabins and the engine room",
@@ -955,7 +1125,9 @@
     "Reported to...": "Haitian Coast Guard",
     "Reporting State": "Haiti",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 347
+    "MSC/Circ": 347,
+    "Latitude_dd": 18.5667,
+    "Longitude_dd": -72.45
   },
   {
     "Date": "2025-04-03",
@@ -963,8 +1135,8 @@
     "Ship Type": "Container ship",
     "IMO No.": "9926104",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 09.93' N",
+    "Longitude": "103° 48.72' E",
     "Incident details": "While underway, the Singapore Police Coast Guard (PCG) informed Singapore Port Operations Control Centre (POCC) that a sampan was following the ship. Singapore Vessel Traffic Information System (VTIS) alerted the ship immediately. \n\nThe master subsequently confirmed that three perpetrators with knives boarded the ship via starboard side quarter on the main deck. The alarm was raised and crew mustered to conduct a security search to locate the perpetrators. The perpetrators stole some lashing gears, and jumped overboard and escaped. All crew members were accounted for, with no injury reported.\n\nSafety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the Singapore Strait (SS). The Republic of Singapore Navy’s (RSN) Maritime Security Task Force (MSTF) and Singapore PCG was notified of the incident. Information of the incident was shared with the Indonesian authorities. \n",
     "Consequences for crew etc": "The crew was not injured.\n\nSome lashing gears were stolen. \n",
     "Action taken by master/crew": "The master raised the alarm and crew mustered to conduct a security search.",
@@ -972,15 +1144,17 @@
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Singapore PCG informed Singapore POCC that a sampan was following the ship. Singapore VTIS alerted the ship immediately.\n\nSafety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG was notified of the incident. Information of the incident was shared with the Indonesian authorities. \n",
-    "MSC/Circ": 347
+    "MSC/Circ": 347,
+    "Latitude_dd": 1.15,
+    "Longitude_dd": 103.8
   },
   {
     "Date": "2025-04-04",
     "Ship Name": "Name withheld",
     "Ship Type": "General cargo ship",
     "Area": "In port area",
-    "Latitude": 21,
-    "Longitude": 91,
+    "Latitude": "21° 30.00' N",
+    "Longitude": "91° 30.00' E",
     "Incident details": "While at anchor, five perpetrators boarded the ship from a wooden boat, and stole about 30 paint cans. The crew was not injured. \n\nThe master reported the incident to Bangladesh Coast Guard (BCG). The BCG anti-smuggle team carried out combing operations on 6 April 25, apprehended the five perpetrators, recovered the stolen paint cans and returned them to the ship.   The perpetrators were handed over to the local police for legal action.\n",
     "Consequences for crew etc": "About 30 paint cans were stolen. \n\nThe crew was not injured.  \n",
     "Action taken by master/crew": "Not stated",
@@ -988,7 +1162,9 @@
     "Reported to...": "The incident was reported to BCG.",
     "Reporting State": "Bangladesh",
     "Coastal State Action Taken": "The BCG anti-smuggle team carried out combing operations on 6 April 25, apprehended the five perpetrators, and handed them over to the local police for legal action. All stolen paint cans were recovered and returned to the ship.",
-    "MSC/Circ": 347
+    "MSC/Circ": 347,
+    "Latitude_dd": 21.5,
+    "Longitude_dd": 91.5
   },
   {
     "Date": "2025-04-07",
@@ -996,8 +1172,8 @@
     "Ship Type": "Oil tanker",
     "IMO No.": "9830288",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 08.98' N",
+    "Longitude": "103° 28.39' E",
     "Incident details": "While underway, three perpetrators were sighted at the poop deck. The master immediately raised the alarm and the perpetrators escaped from the ship. The crew mustered for safety and subsequently conducted a search onboard with no further sighting of perpetrators. One air compressor and four padlocks were stolen. The crew was not injured.\n\nThe incident was reported to Singapore VTIS. Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Singapore PCG boarded the ship upon her arrival in port of Singapore and conducted a search with no perpetrator found. Information of the incident was shared with the Indonesian authorities. \n\n",
     "Consequences for crew etc": "The crew was not injured.\n\nOne air compressor and four padlocks were stolen\n",
     "Action taken by master/crew": "The master raised the alarm and crew mustered to conduct a search with no further sighting of perpetrators.",
@@ -1005,7 +1181,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Singapore PCG boarded the ship upon her arrival in port of Singapore and conducted a search with no perpetrator found.   Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 347
+    "MSC/Circ": 347,
+    "Latitude_dd": 1.1333,
+    "Longitude_dd": 103.4667
   },
   {
     "Date": "2025-04-08",
@@ -1013,23 +1191,25 @@
     "Ship Type": "Container ship",
     "IMO No.": "9449118",
     "Area": "In port area",
-    "Latitude": 5,
-    "Longitude": 4,
+    "Latitude": "5° 13.53' N",
+    "Longitude": "4° 03.17' W",
     "Incident details": "A small boat approached an anchored ship. Crew members noticed a person attempting to gain access via the anchor cable. Alarm raised, resulting in the unauthorised person aborting boarding attempt.",
     "Consequences for crew etc": "Nil",
     "Action taken by master/crew": "Alarm raised",
     "Reported?": true,
     "Reported to...": "-",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 347
+    "MSC/Circ": 347,
+    "Latitude_dd": 5.2167,
+    "Longitude_dd": -4.05
   },
   {
     "Date": "2025-04-14",
     "Ship Name": "Name Withheld",
     "Ship Type": "Product tanker",
     "Area": "In port area",
-    "Latitude": 6,
-    "Longitude": 10,
+    "Latitude": "6° 21.04' N",
+    "Longitude": "10° 52.63' W",
     "Incident details": "The crew onboard an anchored tanker spotted an unauthorized person on the poop deck. They immediately raised the alarm, sounded the ship's whistle continuously, made a PA announcement, and mustered the crew. A thorough search of the tanker was conducted, but nothing was reported as stolen. The incident was reported to MRCC Monrovia.",
     "Consequences for crew etc": "NIL",
     "Action taken by master/crew": "Raised the alarm, sounded the ship's whistle continuously, made a PA announcement, and mustered the crew",
@@ -1037,15 +1217,17 @@
     "Reported to...": "MRCC Monrovia, Liberia",
     "Reporting State": "Liberia",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 347
+    "MSC/Circ": 347,
+    "Latitude_dd": 6.35,
+    "Longitude_dd": -10.8667
   },
   {
     "Date": "2025-04-14",
     "Ship Name": "Name Withheld",
     "Ship Type": "Product tanker",
     "Area": "In port area",
-    "Latitude": 19,
-    "Longitude": 35,
+    "Latitude": "19° 56.65' S",
+    "Longitude": "35° 03.47' E",
     "Incident details": "Eight robbers armed with knives boarded an anchored tanker. The duty AB on patrol noticed one robber and informed the bridge. Alarm raised, PA announcement made, ship’s horn sounded and crew mustered. Beira port control notified. Seeing the crew alertness, the robbers jumped overboard and escaped in their boat. A search was carried out. Ship’s properties identified as stolen. Incident reported to local police which later recovered the stolen items.",
     "Consequences for crew etc": "Ship’s properties stolen",
     "Action taken by master/crew": "Alarm raised, PA announcement made, ship’s horn sounded and crew mustered",
@@ -1053,7 +1235,9 @@
     "Reported to...": "Beira Port Control and local police",
     "Reporting State": "Mozambique",
     "Coastal State Action Taken": "The local police recovered the stolen items",
-    "MSC/Circ": 347
+    "MSC/Circ": 347,
+    "Latitude_dd": -19.9333,
+    "Longitude_dd": 35.05
   },
   {
     "Date": "2025-04-19",
@@ -1061,8 +1245,8 @@
     "Ship Type": "General cargo ship",
     "IMO No.": "9900291",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.73' N",
+    "Longitude": "103° 41.04' E",
     "Incident details": "While underway, four armed perpetrators on a small vessel approached the ship. In response, the ship shone its lights at the perpetrators’ vessel and sounded its whistle. The perpetrators aborted their attempt and escaped in their small vessel at high speed. The crew was not injured and nothing was stolen.\n\n",
     "Consequences for crew etc": "The crew was not injured.\n\nNothing was stolen. \n",
     "Action taken by master/crew": "The ship shone its lights at the perpetrators’ vessel and sounded its whistle.",
@@ -1070,7 +1254,9 @@
     "Reported to...": "The incident was reported to Japan Coast Guard.",
     "Reporting State": "Japan",
     "Coastal State Action Taken": "Nil.",
-    "MSC/Circ": 347
+    "MSC/Circ": 347,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6833
   },
   {
     "Date": "2025-04-20",
@@ -1078,8 +1264,8 @@
     "Ship Type": "Container ship",
     "IMO No.": "9259381",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.20' N",
+    "Longitude": "103° 37.13' E",
     "Incident details": "While underway, three perpetrators were sighted at the upper deck. A crew member ran away after seeing a perpetrator carrying a gun-like object. The master raised the general alarm immediately, mustered the crew for safety and conducted a search onboard. All crew members were accounted for with no injuries reported. Nothing was stolen.\n\nThe incident was reported to Singapore Vessel Traffic Information System (VTIS) via VHF. Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the Singapore Strait (SS). The Republic of Singapore Navy’s (RSN) Maritime Security Task Force (MSTF) and Singapore Police Coast Guard (PCG) were notified of the incident. Singapore PCG boarded the ship upon her arrival in Singapore. Information of the incident was shared with the Indonesian authorities.",
     "Consequences for crew etc": "Nothing was stolen. \n\nThe crew was not injured\n",
     "Action taken by master/crew": "The master raised the general alarm immediately, mustered the crew for safety and conducted a search onboard.",
@@ -1087,7 +1273,26 @@
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Singapore PCG boarded the ship upon her arrival in Singapore. Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 347
+    "MSC/Circ": 347,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6167
+  },
+  {
+    "Date": "2025-04-20",
+    "Ship Name": "Jin Hwa 49/Jin Hwa 39",
+    "Ship Type": "Tug",
+    "IMO No.": "9373981",
+    "Area": "In territorial waters",
+    "Latitude": "1° 09.96' N",
+    "Incident details": "During a routine inspection crew noticed barge properties missing. Incident reported to local police.",
+    "Consequences for crew etc": "Barge properties stolen",
+    "Action taken by master/crew": "A search was carried out",
+    "Reported?": true,
+    "Reported to...": "Local Police",
+    "Reporting State": "Singapore",
+    "Coastal State Action Taken": "NA",
+    "MSC/Circ": 347,
+    "Latitude_dd": 1.15
   },
   {
     "Date": "2025-04-21",
@@ -1095,8 +1300,8 @@
     "Ship Type": "Tanker",
     "IMO No.": "9251822",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 04.92' N",
+    "Longitude": "103° 42.34' E",
     "Incident details": "While underway, three perpetrators armed with knives were sighted in the engine control room. The master raised the general alarm immediately, mustered the crew for safety and conducted a search onboard. All crew were accounted for with no injuries reported. Nothing was stolen. The ship was bound for Tompok, Malaysia.\n\nThe incident was reported to Singapore VTIS via VHF. Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian and Malaysian authorities.\n",
     "Consequences for crew etc": "Nothing was stolen. \n\nThe crew was not injured.  \n",
     "Action taken by master/crew": "The master raised the general alarm immediately, mustered the crew for safety and conducted a search onboard.",
@@ -1104,7 +1309,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian and Malaysian authorities.",
-    "MSC/Circ": 347
+    "MSC/Circ": 347,
+    "Latitude_dd": 1.0667,
+    "Longitude_dd": 103.7
   },
   {
     "Date": "2025-04-21",
@@ -1112,8 +1319,8 @@
     "Ship Type": "General cargo ship",
     "IMO No.": "9780952",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 02.29' N",
+    "Longitude": "103° 39.09' E",
     "Incident details": "During a routine check onboard the ship underway, the duty crew discovered footprints on the deck. Subsequent inspection revealed that engine spares had been stolen. When the ship anchored, the coast guard conducted an investigation onboard.",
     "Consequences for crew etc": "Engine spares stolen",
     "Action taken by master/crew": "NA",
@@ -1121,7 +1328,9 @@
     "Reported to...": "Operations Control Centre (POCC)",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Coast guard boarded the ship for investigation",
-    "MSC/Circ": 347
+    "MSC/Circ": 347,
+    "Latitude_dd": 1.0333,
+    "Longitude_dd": 103.65
   },
   {
     "Date": "2025-04-21",
@@ -1129,8 +1338,8 @@
     "Ship Type": "Product tanker",
     "IMO No.": "9322138",
     "Area": "In international waters",
-    "Latitude": 3,
-    "Longitude": 4,
+    "Latitude": "3° 03.00' N",
+    "Longitude": "4° 48.29' E",
     "Incident details": "Six pirates armed with guns boarded the tanker underway. Master commenced evasive manoeuvres. Alarm raised, PA announcement made, and all crew members retreated into the citadel. The pirates escaped after a few hours with stolen crew’s and ship's properties. All crew are reported safe.",
     "Consequences for crew etc": "Crew’s and ship’s properties stolen",
     "Action taken by master/crew": "Master took evasive manoeuvres, raised alarm, PA announcement made, and all crew members retreated into the citadel",
@@ -1138,15 +1347,17 @@
     "Reported to...": "MDAT-GoG",
     "Reporting State": "Nigeria",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 347
+    "MSC/Circ": 347,
+    "Latitude_dd": 3.05,
+    "Longitude_dd": 4.8
   },
   {
     "Date": "2025-04-23",
     "Ship Name": "Name Withheld",
     "Ship Type": "Container ship",
     "Area": "In port area",
-    "Latitude": 6,
-    "Longitude": 106,
+    "Latitude": "6° 05.80' S",
+    "Longitude": "106° 53.70' E",
     "Incident details": "Unauthorized persons in a boat came alongside the berthed ship. The duty AB noticed a person was trying to climb onboard via a rope. Seeing the AB, the person retreated to his boat and escaped. A broken padlock on the steering gear room door was discovered during inspection, but nothing was reported stolen.",
     "Consequences for crew etc": "A broken padlock",
     "Action taken by master/crew": "Crew mustered and carried out a search",
@@ -1154,7 +1365,9 @@
     "Reported to...": "NA",
     "Reporting State": "Indonesia",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 347
+    "MSC/Circ": 347,
+    "Latitude_dd": -6.0833,
+    "Longitude_dd": 106.8833
   },
   {
     "Date": "2025-04-29",
@@ -1162,8 +1375,8 @@
     "Ship Type": "Container ship",
     "IMO No.": "9238612",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 05.38' N",
+    "Longitude": "103° 43.52' E",
     "Incident details": "Crew onboard the ship underway noticed three unauthorised persons and raised the alarm resulting in the persons escaping. A search was carried out and ship’s stores identified as stolen. Incident reported to Singapore Authorities who later boarded the ship for investigation.",
     "Consequences for crew etc": "Ship's stores stolen",
     "Action taken by master/crew": "Alarm raised and a search was carried out",
@@ -1171,7 +1384,9 @@
     "Reported to...": "Singapore Authorities",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Coast guard boarded the ship for investigation",
-    "MSC/Circ": 347
+    "MSC/Circ": 347,
+    "Latitude_dd": 1.0833,
+    "Longitude_dd": 103.7167
   },
   {
     "Date": "2025-05-02",
@@ -1179,8 +1394,8 @@
     "Ship Type": "Chemical tanker",
     "IMO No.": "9273002",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.27' N",
+    "Longitude": "103° 37.95' E",
     "Incident details": "While underway, four perpetrators holding unknown objects were sighted on deck and in the engine room. The emergency general alarm was raised, and the crew conducted a search with no perpetrators found onboard. The master confirmed there was no confrontation with the perpetrators, but the 3rd Engineer and one AB suffered minor hand injuries in the darkness. Engine spare parts were reported stolen. \n\nThe incident was reported to Singapore Vessel Traffic Information System (VTIS). Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the Singapore Strait (SS). The Republic of Singapore Navy's (RSN) Maritime Security Task Force (MSTF) and Singapore Police Coast Guard (PCG) were notified of the incident. Information of the incident was shared with the Indonesian authorities.",
     "Consequences for crew etc": "There was no confrontation with the perpetrators, but the 3rd Engineer and one AB suffered minor hand injuries in  the darkness. \n\nSome engine spare parts were stolen. \n",
     "Action taken by master/crew": "The master raised the alarm, and the crew mustered to conduct a security search",
@@ -1188,7 +1403,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6167
   },
   {
     "Date": "2025-05-02",
@@ -1196,8 +1413,8 @@
     "Ship Type": "Tanker",
     "IMO No.": "9333254",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.77' N",
+    "Longitude": "103° 36.84' E",
     "Incident details": "While underway, five perpetrators were sighted on deck. The master immediately raised the general alarm, and the crew mustered for safety. Upon realising the crew was alerted, the perpetrators escaped immediately. The crew was not injured and nothing was stolen.\n\nThe incident was reported to Singapore VTIS. Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authorities.",
     "Consequences for crew etc": "The crew was not injured. \n\nNothing was stolen. \n",
     "Action taken by master/crew": "The master raised the general alarm, and the crew mustered for safety.",
@@ -1205,7 +1422,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6
   },
   {
     "Date": "2025-05-04",
@@ -1213,8 +1432,8 @@
     "Ship Type": "Container ship",
     "IMO No.": "9948645",
     "Area": "In port area",
-    "Latitude": 5,
-    "Longitude": 106,
+    "Latitude": "5° 58.79' S",
+    "Longitude": "106° 54.95' E",
     "Incident details": "While at anchor, three to four perpetrators boarded the ship at the aft mooring station when the crew was occupied at the forecastle with weighing anchor for departure from anchorage to the port. As all entry doors to restricted areas were locked and secured, the perpetrators stole one heaving line and cut the cables of door sensors (to passageways and steering gear room) before they escaped. The crew was not injured.",
     "Consequences for crew etc": "The crew was not injured.\n\nPerpetrators cut the cables of door sensors (to passageways and steering gear room).\n\nOne heaving line was stolen.  \n",
     "Action taken by master/crew": "Not stated.",
@@ -1222,7 +1441,9 @@
     "Reported to...": "Not stated",
     "Reporting State": "Germany",
     "Coastal State Action Taken": "Not stated.",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": -5.9667,
+    "Longitude_dd": 106.9
   },
   {
     "Date": "2025-05-05",
@@ -1230,8 +1451,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9984170",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 07.00' N",
+    "Longitude": "103° 45.00' E",
     "Incident details": "While underway, two perpetrators were sighted at the port quarter of the stern deck. The master immediately raised the general alarm, switched on the deck lights and the crew mustered for safety. Upon realising the crew was alerted, the perpetrators escaped immediately. A security search was conducted with no perpetrators found onboard. The crew was not injured and nothing was stolen.\n\nThe incident was reported to Singapore VTIS. Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authorities\n",
     "Consequences for crew etc": "The crew was not injured.\n\nNothing was stolen. \n",
     "Action taken by master/crew": "The master raised the alarm and crew mustered to conduct a search with no further sighting of perpetrators.",
@@ -1239,7 +1460,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": 1.1167,
+    "Longitude_dd": 103.75
   },
   {
     "Date": "2025-05-06",
@@ -1247,15 +1470,17 @@
     "Ship Type": "Chemical tanker",
     "IMO No.": "9331256",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 05.36' N",
+    "Longitude": "103° 35.22' E",
     "Incident details": "Duty crew onboard a tanker underway noticed two unauthorised persons attempting to open the poop deck rope store hatch cover. Alarm raised, crew mustered and deck lights switched on. Seeing the crew alertness, the persons escaped without stealing anything. Incident reported to Singapore VTIS.",
     "Consequences for crew etc": "Nil",
     "Action taken by master/crew": "Alarm raised, crew mustered, and deck lights switched on",
     "Reported?": true,
     "Reported to...": "Singapore VTIS",
     "Coastal State Action Taken": "n/a",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": 1.0833,
+    "Longitude_dd": 103.5833
   },
   {
     "Date": "2025-05-06",
@@ -1263,15 +1488,17 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9650925",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 08.30' N",
+    "Longitude": "103° 28.79' E",
     "Incident details": "Five robbers armed with guns boarded a ship underway. They entered the engine room and threatened two crews, stole engine spares, and escaped. Master was informed, PA announcement made, crew mustered and VTIS notified. On anchoring Singapore Police Coast Guard boarded the ship for investigation.",
     "Consequences for crew etc": "Two crew were threatened and ship’s engine spares stolen",
     "Action taken by master/crew": "PA announcement made and crew mustered",
     "Reported?": true,
     "Reported to...": "Singapore VTIS",
     "Coastal State Action Taken": "Singapore Coast Guard boarded the ship for investigation",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": 1.1333,
+    "Longitude_dd": 103.4667
   },
   {
     "Date": "2025-05-07",
@@ -1279,15 +1506,17 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9515670",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.57' N",
+    "Longitude": "103° 40.79' E",
     "Incident details": "While underway, two perpetrators armed with knives were sighted at the aft deck of the ship. The master immediately raised the general alarm and crew mustered for safety. A search was conducted, with no perpetrators found onboard. All crew were accounted for with no injuries reported. Nothing was stolen. \n\nThe incident was reported to Singapore Vessel Traffic Information System (VTIS). Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the Singapore Strait (SS). The Republic of Singapore Navy's (RSN) Maritime Security Task Force (MSTF) and Singapore Police Coast Guard (PCG) were notified of the incident. Information of the incident was shared with the Indonesian authorities.\n",
     "Consequences for crew etc": "The crew was not injured. \n\nNothing was stolen. \n",
     "Action taken by master/crew": "The master raised the alarm, and the crew mustered to conduct a security search with no further sighting of perpetrators.",
     "Reported?": true,
     "Reported to...": "Singapore VTIS",
     "Coastal State Action Taken": "Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6667
   },
   {
     "Date": "2025-05-07",
@@ -1295,14 +1524,16 @@
     "Ship Type": "Tug",
     "IMO No.": "9648958",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 07.57' N",
+    "Longitude": "103° 30.70' E",
     "Incident details": "Three unauthorised individuals boarded the barge (JIN HWA 37, Malaysia, GT: 1434) under tow, stole the barge's properties and stores and escaped.",
     "Consequences for crew etc": "Barge’s properties and stores were stolen",
     "Action taken by master/crew": "n/a",
     "Reported?": false,
     "Coastal State Action Taken": "n/a",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": 1.1167,
+    "Longitude_dd": 103.5
   },
   {
     "Date": "2025-05-10",
@@ -1310,15 +1541,17 @@
     "Ship Type": "Fishing vessel",
     "IMO No.": "8607000",
     "Area": "In territorial waters",
-    "Latitude": 11,
-    "Longitude": 40,
+    "Latitude": "11° 16.60' S",
+    "Longitude": "40° 44.59' E",
     "Incident details": "A fishing vessel underway was approached and fired upon by pirates in two skiffs. The fishing vessel increased speed and commenced evasive manoeuvres resulting in the skiffs abandoning the approach and moving away. All crew reported safe. The vessel sustained bullet hole damage.",
     "Consequences for crew etc": "Bullet holes in the superstructure, bulwarks, wheelhouse monitor, and winch/electric motor are damaged due to the gunfire.",
     "Action taken by master/crew": "Master increased speed and commenced evasive manoeuvres.",
     "Reported?": true,
     "Reported to...": "MRCC Kaliningrad & Russian Military Attache, Mozambique",
     "Coastal State Action Taken": "MRCC Mozambique acknowledged the report",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": -11.2667,
+    "Longitude_dd": 40.7333
   },
   {
     "Date": "2025-05-14",
@@ -1326,15 +1559,17 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9425930",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 07.19' N",
+    "Longitude": "103° 45.29' E",
     "Incident details": "While underway, three perpetrators were sighted at the poop deck of the ship. The master immediately raised the general alarm and crew mustered for safety. The perpetrators then escaped. A search was conducted, with no perpetrators found onboard. All crew were accounted for with no injuries reported. Some engine spares were stolen.\n \nThe incident was reported to Singapore Vessel Traffic Information System (VTIS). Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the Singapore Strait (SS). The Republic of Singapore Navy's (RSN) Maritime Security Task Force (MSTF) and Singapore PCG were notified of the incident. PCG boarded the ship and conducted a security search with no perpetrators found while some auxiliary engine spares were stolen. Information of the incident was shared with the Indonesian authorities.",
     "Consequences for crew etc": "The crew was not injured. \n\nSome engine spares were stolen.",
     "Action taken by master/crew": "The master raised the general alarm, and the crew mustered to conduct a security search with no further sighting of perpetrators.",
     "Reported?": true,
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Coastal State Action Taken": "Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. PCG boarded the ship and conducted a security search with no perpetrators found while some auxiliary engine spares were stolen.  Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": 1.1167,
+    "Longitude_dd": 103.75
   },
   {
     "Date": "2025-05-17",
@@ -1342,22 +1577,24 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9500704",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 07.00' N",
+    "Longitude": "103° 44.47' E",
     "Incident details": "While underway, five perpetrators armed with knives were sighted at the poop deck. The master immediately raised the general alarm and crew mustered for safety. The perpetrators then escaped. A search was conducted, with no perpetrators found onboard. The crew was not injured and nothing was stolen. \n\nThe incident was reported to Singapore VTIS. Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Upon arrival at Singapore port, Singapore PCG boarded the ship and conducted a security search, with no perpetrators found onboard. Information of the incident was shared with the Indonesian authority.\n",
     "Action taken by master/crew": "The master raised the general alarm and crew mustered to conduct a search with no further sighting of perpetrators.",
     "Reported?": true,
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Coastal State Action Taken": "Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Upon arrival at Singapore port, Singapore PCG boarded the ship and conducted a security search, with no perpetrators found onboard.  Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": 1.1167,
+    "Longitude_dd": 103.7333
   },
   {
     "Date": "2025-05-20",
     "Ship Name": "Plata South",
     "IMO No.": "9353797",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.40' N",
+    "Longitude": "103° 38.38' E",
     "Incident details": "While underway, the 2nd engineer sighted five perpetrators in the engine room. Three perpetrators were armed with knives, and one perpetrator armed with a gun-like object. The 2nd engineer alerted the master, and the general alarm was immediately raised. The crew mustered for safety and conducted a search, with no perpetrators found onboard. Three lube oil drums and some engine spares parts were stolen. The crew was not injured\n\nThe incident was reported to Singapore Vessel Traffic Information System (VTIS). Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the Singapore Strait (SS). The Republic of Singapore Navy's (RSN) Maritime Security Task Force (MSTF) and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authorities.",
     "Consequences for crew etc": "The crew was not injured. \n\nThree lube oil drums and some engine spares parts were stolen.\n",
     "Action taken by master/crew": "The master raised the general alarm and conducted a search. No perpetrators were found onboard.",
@@ -1365,7 +1602,9 @@
     "Reported to...": "The incident was reported Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident.  Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6333
   },
   {
     "Date": "2025-05-22",
@@ -1373,8 +1612,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9568067",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.43' N",
+    "Longitude": "103° 38.00' E",
     "Incident details": "While underway, the crew sighted one perpetrator armed with gun-like object at the starboard quarter deck. The perpetrator immediately jumped into the water upon seeing the alerted crew. In addition, the oiler sighted another four perpetrators (not armed) in the engine room. The master raised the general alarm and mustered the crew for safety. A search was conducted, with no further sighting of the perpetrators onboard. All crew members were accounted for, with no injury reported. Nothing was stolen. \n\nThe incident was reported to Singapore VTIS. Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authority. Upon arrival in Singapore anchorage, Singapore PCG boarded the ship and conducted a search, with no perpetrators found onboard.",
     "Consequences for crew etc": "The crew was not injured.\n\nNothing was stolen. \n",
     "Action taken by master/crew": "The master raised the general alarm and conducted a search. No perpetrators were found onboard.",
@@ -1382,7 +1621,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authority. Upon arrival in Singapore anchorage, Singapore PCG boarded the ship and conducted a search, with no perpetrators found onboard.",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6333
   },
   {
     "Date": "2025-05-22",
@@ -1390,8 +1631,8 @@
     "Ship Type": "Product tanker",
     "IMO No.": "9876397",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 05.71' N",
+    "Longitude": "103° 43.75' E",
     "Incident details": "Four robbers armed with a knife boarded the tanker underway and entered the engine room. The alarm was raised, a PA announcement was made, all deck lights were switched on, VTIS informed, distress messages were broadcasted, and the crew was mustered. Upon hearing the alarm, the robbers fled with stolen engine spares. After anchoring, the police coast guard boarded the tanker for inspection.",
     "Consequences for crew etc": "Engine spares stolen",
     "Action taken by master/crew": "The alarm was raised, a PA announcement was made, all deck lights were switched on",
@@ -1399,7 +1640,9 @@
     "Reported to...": "VTIS Singapore",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "The police coast guard boarded the tanker for inspection",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": 1.0833,
+    "Longitude_dd": 103.7167
   },
   {
     "Date": "2025-05-22",
@@ -1407,8 +1650,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9455961",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.57' N",
+    "Longitude": "103° 39.38' E",
     "Incident details": "While underway, four perpetrators armed with knives were sighted at starboard quarter deck. The perpetrators immediately jumped into the water upon seeing the alerted crew. The master raised the general alarm and crew mustered for safety. A search was conducted, with no further sighting of the perpetrators onboard. All crew were accounted for, with no injury reported. Nothing was stolen. \n\nThe incident was reported to Singapore VTIS. Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN's MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authority.",
     "Consequences for crew etc": "The crew was not injured. \n\nNothing was stolen.",
     "Action taken by master/crew": "The master raised the general alarm and conducted a search. No perpetrators were found onboard.",
@@ -1416,7 +1659,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.65
   },
   {
     "Date": "2025-05-23",
@@ -1424,8 +1669,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9298258",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.52' N",
+    "Longitude": "103° 41.31' E",
     "Incident details": "While underway, five perpetrators armed with long pipes were sighted in the engine room. The master raised the general alarm and mustered the crew for safety. A search was conducted, with no further sighting of the perpetrators onboard. All crew members were accounted for, with no injury reported. Some engine spares were stolen.\n\nThe incident was reported to Singapore VTIS. Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. The Singapore PCG boarded the ship to conduct a search with no perpetrators found. Information of the incident was shared with the Indonesian authorities.",
     "Consequences for crew etc": "The crew was not injured. \n\nSome engine spares were stolen.  \n",
     "Action taken by master/crew": "The master raised the general alarm and conducted a search. No perpetrators were found onboard.",
@@ -1433,7 +1678,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. The Singapore PCG boarded the ship to conduct a search with no perpetrators found. Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6833
   },
   {
     "Date": "2025-05-23",
@@ -1441,8 +1688,8 @@
     "Ship Type": "Tanker",
     "IMO No.": "9299202",
     "Area": "In port area",
-    "Latitude": 8,
-    "Longitude": 13,
+    "Latitude": "8° 44.40' S",
+    "Longitude": "13° 18.20' E",
     "Incident details": "During routine rounds, the chief officer on an anchored tanker discovered that the forecastle storeroom had been broken into. Alarm was raised, the crew was mustered, and a search was conducted. It was reported that ship's properties had been stolen.",
     "Consequences for crew etc": "Chain of locking device was broken, and ship’s properties were stolen",
     "Action taken by master/crew": "Alarm raised, crew mustered, and a search was conducted",
@@ -1450,7 +1697,9 @@
     "Reported to...": "Port Control",
     "Reporting State": "Angola",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": -8.7333,
+    "Longitude_dd": 13.3
   },
   {
     "Date": "2025-05-25",
@@ -1458,8 +1707,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9279513",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 07.96' N",
+    "Longitude": "103° 45.99' E",
     "Incident details": "While underway, three unarmed perpetrators were sighted at the poop deck. The master immediately raised the general alarm and crew mustered for safety. Upon being spotted, the perpetrators escaped from the ship. A search was conducted with no perpetrators found onboard. All crew members were accounted for, with no injury reported. Nothing was stolen.\n\nThe incident was reported to Singapore VTIS Central. Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN's MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authority.",
     "Consequences for crew etc": "The crew was not injured. \n\nNothing was stolen.  \n",
     "Action taken by master/crew": "The master raised the general alarm and conducted a search. No perpetrators were found onboard.",
@@ -1467,7 +1716,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS Central.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN's MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authority.",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": 1.1167,
+    "Longitude_dd": 103.75
   },
   {
     "Date": "2025-05-26",
@@ -1475,8 +1726,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9564140",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 02.90' N",
+    "Longitude": "103° 40.90' E",
     "Incident details": "Six robbers armed with a gun and knives boarded the ship underway. Duty crew notice the robbers and raised the alarm. Hearing the alarm the intruders fled empty-handed. One crew was assaulted and injured during the incident. VTS notified and on anchoring the Singapore police boarded the ship to conduct an inspection.",
     "Consequences for crew etc": "One crew was assaulted and injured",
     "Action taken by master/crew": "Alarm raised, all deck lights were switched on and crew mustered",
@@ -1484,7 +1735,9 @@
     "Reported to...": "VTS",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Singapore Police Coast Guard boarded the ship for inspection",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": 1.0333,
+    "Longitude_dd": 103.6667
   },
   {
     "Date": "2025-05-27",
@@ -1492,16 +1745,18 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9377963",
     "Area": "In port area",
-    "Latitude": 10,
-    "Longitude": 107,
+    "Latitude": "10° 12.72' N",
+    "Longitude": "107° 00.36' E",
     "Incident details": "While at anchor, the duty deck watch heard a loud noise from the ship’s port side and saw a perpetrator. After being shouted at by the duty deck watch, the perpetrator jumped overboard and escaped. The ship enhanced her security watches and measures. The crew was not injured. 300 liters of paint were stolen. \n\nThe incident was reported to Vietnam Coast Guard through the ship’s agent.\n",
     "Consequences for crew etc": "The crew was not injured.\n\n300 liters of paint were stolen. \n",
     "Action taken by master/crew": "The ship enhanced her security watches and measures.",
     "Reported?": true,
     "Reported to...": "The ship enhanced her security watches and measures.",
-    "Reporting State": "VietNam",
+    "Reporting State": "Vietnam",
     "Coastal State Action Taken": "Not stated.",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": 10.2,
+    "Longitude_dd": 107
   },
   {
     "Date": "2025-05-28",
@@ -1509,8 +1764,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9763631",
     "Area": "In port area",
-    "Latitude": 22,
-    "Longitude": 91,
+    "Latitude": "22° 15.30' N",
+    "Longitude": "91° 43.00' E",
     "Incident details": "While at anchor, five perpetrators armed with long knives boarded the ship from astern and another two perpetrators waited in a small wooden boat (unlit). The perpetrators broke the padlock of the oxygen cylinder room and stole six oxygen cylinders. The duty crew was threatened by the perpetrator with metal. No injury was reported. The ship enhanced the security watch and hardened all deck mast house with additional welding. \n\nThe master reported the incident to the local authority through the agents.",
     "Consequences for crew etc": "The crew was not injured. \n\nSix oxygen cylinders were stolen.  \n",
     "Action taken by master/crew": "The ship enhanced the security watch and hardened all deck mast house with additional welding",
@@ -1518,7 +1773,9 @@
     "Reported to...": "The incident was reported to local authority.",
     "Reporting State": "Hong Kong, China",
     "Coastal State Action Taken": "Not stated.",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": 22.25,
+    "Longitude_dd": 91.7167
   },
   {
     "Date": "2025-05-28",
@@ -1526,8 +1783,8 @@
     "Ship Type": "Container ship",
     "IMO No.": "9217412",
     "Area": "In port area",
-    "Latitude": 10,
-    "Longitude": 107,
+    "Latitude": "10° 13.10' N",
+    "Longitude": "107° 00.69' E",
     "Incident details": "While at anchor, two perpetrators were sighted near the forecastle. Noted that they had been discovered, the perpetrators escaped quickly by climbing down via a rope. The crew was not injured. Some unsecured items (fire nozzles, fire hydrant caps, fire hoses and deck air-valve caps) were stolen. \n\n",
     "Consequences for crew etc": "The crew was not injured. \n\nSome unsecured items were stolen.  \n",
     "Action taken by master/crew": "Not stated.",
@@ -1535,7 +1792,9 @@
     "Reported to...": "Not stated.",
     "Reporting State": "Republic of Korea",
     "Coastal State Action Taken": "Not stated.",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": 10.2167,
+    "Longitude_dd": 107
   },
   {
     "Date": "2025-05-30",
@@ -1543,8 +1802,8 @@
     "Ship Type": "Tug",
     "IMO No.": "9026095",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 104,
+    "Latitude": "1° 15.68' N",
+    "Longitude": "104° 14.30' E",
     "Incident details": "While underway, the master of the tug boat reported that one perpetrator had boarded the barge it was towing from a small boat. The master requested assistance from Singapore Police Coast Guard (PCG) to assist with the search of their barge. Singapore PCG later boarded and searched the barge, with no perpetrator found onboard. All crew members were accounted for, with no injury reported. The crew of the tug boat was unable to determine whether anything was stolen. \n\nThe incident was reported to Singapore Port Operations Control Centre (POCC). Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the Singapore Strait (SS). The Republic of Singapore Navy's (RSN) Maritime Security Task Force (MSTF) and Singapore PCG was notified of the incident. Information of the incident was shared with the Indonesian authority.\n",
     "Consequences for crew etc": "The crew was not injured.\n\nUnable to determine whether anything was stolen. \n",
     "Action taken by master/crew": "Not stated.",
@@ -1552,7 +1811,9 @@
     "Reported to...": "The incident was reported to Singapore POCC",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN's MSTF and Singapore PCG was notified of the incident. Information of the incident was shared with the Indonesian authority.",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": 1.25,
+    "Longitude_dd": 104.2333
   },
   {
     "Date": "2025-05-30",
@@ -1560,8 +1821,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9721578",
     "Area": "In international waters",
-    "Latitude": 5,
-    "Longitude": 106,
+    "Latitude": "5° 52.59' S",
+    "Longitude": "106° 48.40' E",
     "Incident details": "Duty crew on routine rounds onboard the drifting ship noticed padlocks for steering gear room and other engine room access broken. Alarm raised, crew mustered, and a search was carried out. On investigating, CCTV footage indicated three unauthorised persons entering the steering gear room and escaping with ship’s engine spares.",
     "Consequences for crew etc": "Padlocks for steering gear room and other engine room access broken. Ship’s engine spares were stolen",
     "Action taken by master/crew": "Alarm raised, crew mustered, and a search was carried out",
@@ -1569,15 +1830,17 @@
     "Reported to...": "NA",
     "Reporting State": "Indonesia",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": -5.8667,
+    "Longitude_dd": 106.8
   },
   {
     "Date": "2025-05-30",
     "Ship Name": "Name Withheld",
     "Ship Type": "Refrigerated cargo carrier",
     "Area": "In international waters",
-    "Latitude": 2,
-    "Longitude": 6,
+    "Latitude": "2° 30.00' N",
+    "Longitude": "6° 31.00' E",
     "Incident details": "Seven armed pirates boarded the ship underway. Alarm raised, distress message activated, and crew retreated into the citadel. Two crew remained unaccounted. A Nigerian Naval team responded to the distress call, boarded the ship, and assisted the crew. On inspecting the ship blood stains were identified near a ladder used by the pirates. It is suspected a crew was kidnapped. The ship sailed to a safe port.",
     "Consequences for crew etc": "Blood stains were identified. It is suspected a crew was kidnapped",
     "Action taken by master/crew": "Alarm raised, distress message activated, and crew retreated into the citadel",
@@ -1585,15 +1848,17 @@
     "Reported to...": "NA",
     "Reporting State": "Nigeria",
     "Coastal State Action Taken": "A Nigerian Naval team responded to the distress call, boarded the ship, and assisted the crew",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": 2.5,
+    "Longitude_dd": 6.5167
   },
   {
     "Date": "2025-06-01",
     "Ship Name": "Name Withheld",
     "Ship Type": "Bulk carrier",
     "Area": "In port area",
-    "Latitude": 22,
-    "Longitude": 91,
+    "Latitude": "22° 13.31' N",
+    "Longitude": "91° 44.40' E",
     "Incident details": "Ten robbers, armed with knives, boarded an anchored ship, and entered the ship’s forward storeroom. Alarm raised and crew mustered. Hearing the alarm and seeing the crew's alertness, the robbers escaped with stolen ship’s stores. All crew reported safe. The incident was reported to port control.",
     "Consequences for crew etc": "Ship’s stores stolen",
     "Action taken by master/crew": "Alarm raised, crew mustered, and a search was carried out",
@@ -1601,7 +1866,9 @@
     "Reported to...": "Port Control",
     "Reporting State": "Bangladesh",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": 22.2167,
+    "Longitude_dd": 91.7333
   },
   {
     "Date": "2025-06-03",
@@ -1609,8 +1876,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9938602",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 04.00' N",
+    "Longitude": "103° 40.09' E",
     "Incident details": "While underway, the crew on patrol sighted a perpetrator boarding the ship through the barb wire on the aft deck. The crew alerted the bridge and general alarm was raised. The perpetrator immediately jumped overboard and escaped in a boat, with another five perpetrators. A search was conducted, with no perpetrator found onboard. All crew members were safe and accounted for. Nothing was stolen.",
     "Consequences for crew etc": "The crew was not injured. \n\nNothing was stolen.  \n",
     "Action taken by master/crew": "The crew alerted the bridge and general alarm was raised. A search was conducted, with no perpetrator found onboard.",
@@ -1618,7 +1885,9 @@
     "Reported to...": "Not stated.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "A Singapore naval vessel escorted the ship to Singapore.",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": 1.0667,
+    "Longitude_dd": 103.6667
   },
   {
     "Date": "2025-06-03",
@@ -1626,8 +1895,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9321158",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 05.09' N",
+    "Longitude": "103° 34.04' E",
     "Incident details": "While underway, six perpetrators armed with knives were sighted in the engine room. The master immediately raised the general alarm and mustered the crew for safety. A thorough search was conducted with no further sighting of the perpetrators onboard. The crew was not injured. Nothing was reported stolen.\n\nThe incident was reported to Singapore VTIS Central. Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authorities. \n",
     "Consequences for crew etc": "The crew was not injured. \n\nNothing was stolen.  \n",
     "Action taken by master/crew": "The master immediately raised the general alarm and mustered the crew for safety. A thorough search was conducted with no further sighting of the perpetrators onboard.",
@@ -1635,7 +1904,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS Central.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authorities.",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": 1.0833,
+    "Longitude_dd": 103.5667
   },
   {
     "Date": "2025-06-05",
@@ -1643,8 +1914,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9607681",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.91' N",
+    "Longitude": "103° 37.70' E",
     "Incident details": "While underway, an engineer officer sighted seven perpetrators, with at least one armed with a long knife, in the engine room. The general alarm was raised immediately and all crew members mustered in the engine control room. All crew members were accounted for, with no injury reported.\n\nThe incident was reported to Singapore VTIS West. Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authority.\n\nThe Singapore PCG boarded the ship off Eastern Bunkering B Anchorage (AEBB) and conducted a search, with no perpetrators found onboard. Investigation revealed that generator spare parts were stolen, and a crew member had been restrained by the perpetrators during the incident.\n",
     "Consequences for crew etc": "A crew member had been restrained by the perpetrators during the incident.  All crew members accounted for, with no injury reported.\n\nSome generator spare parts were stolen.  \n",
     "Action taken by master/crew": "The general alarm was raised immediately and all crew members mustered in the engine control room.",
@@ -1652,7 +1923,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS West.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authority. The Singapore PCG boarded the ship off AEBB and conducted a search, with no perpetrators found onboard.",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6167
   },
   {
     "Date": "2025-06-05",
@@ -1660,8 +1933,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9533335",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 05.96' N",
+    "Longitude": "103° 33.93' E",
     "Incident details": "ReCAAP report: \nWhile underway, the 3rd Engineer sighted four perpetrators, with at least one reportedly armed with a gun-like object, in the engine room. The general alarm was raised immediately and a search was conducted, with no perpetrators found onboard. The crew was not injured. Nothing was stolen.\nThe incident was reported to Singapore POCC. \n\nIMBKL report:\nFour robbers armed with a gun boarded the ship underway. They attacked the fitter, hitting him on the head twice to subdue him. Alarm raised, crew mustered and conducted a search. The incident was reported to VTIS, and the coast guard instructed the ship to anchor for inspection. All crew members are safe, and no items were reported missing.\n",
     "Consequences for crew etc": "The fitter was hit on the head twice\n",
     "Action taken by master/crew": "The general alarm was raised immediately and a search was conducted, with no perpetrators found onboard.",
@@ -1669,7 +1942,9 @@
     "Reported to...": "The incident was reported to Singapore POCC.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "The Singapore Police Coast Guard instructed the ship to anchor for inspection. \n(IMBKL)",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": 1.0833,
+    "Longitude_dd": 103.55
   },
   {
     "Date": "2025-06-06",
@@ -1677,8 +1952,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9632806",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.45' N",
+    "Longitude": "103° 37.47' E",
     "Incident details": "While underway, three perpetrators were sighted at the aft station. The general alarm was raised and the crew mustered. Realising that the crew had been alerted, the perpetrators escaped immediately. A thorough search was conducted, with no perpetrators found onboard. All crew members were accounted for, with no injury reported. Nothing was stolen. \n\nThe incident was reported to Singapore Vessel Traffic Information System (VTIS). Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authority.",
     "Consequences for crew etc": "The crew was not injured. \n\nNothing was stolen. \n",
     "Action taken by master/crew": "The general alarm was raised and the crew was mustered. A thorough search was conducted, with no perpetrators found onboard.",
@@ -1686,7 +1961,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authority.",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6167
   },
   {
     "Date": "2025-06-07",
@@ -1694,8 +1971,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9453406",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 12.07' N",
+    "Longitude": "103° 53.70' E",
     "Incident details": "While underway, five perpetrators were sighted in the engine room. The general alarm was raised and the crew mustered to conduct a search onboard, with no perpetrators found. The crew was not injured. Nothing was stolen.\nThe incident was reported to Singapore POCC. Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authority.\n",
     "Consequences for crew etc": "The crew was not injured. \n\nNothing was stolen.  \n",
     "Action taken by master/crew": "The general alarm was raised and the crew mustered to conduct a search onboard, with no perpetrators found.",
@@ -1703,7 +1980,9 @@
     "Reported to...": "The incident was reported to Singapore POCC.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authority.",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": 1.2,
+    "Longitude_dd": 103.8833
   },
   {
     "Date": "2025-06-07",
@@ -1711,8 +1990,8 @@
     "Ship Type": "Tug",
     "IMO No.": "9767120",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 104,
+    "Latitude": "1° 14.60' N",
+    "Longitude": "104° 01.87' E",
     "Incident details": "While underway, the crew of the tug boat saw three boats on the port side of barge, four boats on the starboard side, and one boat at the rear. Each boat had three to four perpetrators, with approximately 14 perpetrators boarding the barge. The perpetrators escaped when the general alarm was raised. Some scrap metal was reported stolen. All crew members were accounted for and not injuries reported.\nThe incident was reported to Singapore POCC.\n",
     "Consequences for crew etc": "The crew was not injured. \n\nSome scrap metal was stolen.  \n",
     "Action taken by master/crew": "NIL\n",
@@ -1720,7 +1999,9 @@
     "Reported to...": "The incident was reported to Singapore POCC.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "NIL",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": 1.2333,
+    "Longitude_dd": 104.0167
   },
   {
     "Date": "2025-06-11",
@@ -1728,8 +2009,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9497323",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 06.30' N",
+    "Longitude": "103° 44.50' E",
     "Incident details": "Six robbers armed with guns and knives boarded the ship underway and entered the engine room. Alarm raised and crew mustered resulting in the robbers escaping with stolen engine spares. The incident was reported to the Singapore VTIS, who then dispatched the police for investigation.",
     "Consequences for crew etc": "Ship’s engine spares were stolen",
     "Action taken by master/crew": "Alarm raised, crew mustered, and a search was carried out",
@@ -1737,7 +2018,9 @@
     "Reported to...": "Singapore VTIS",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Singapore Police Coast Guard boarded the ship for inspection",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": 1.1,
+    "Longitude_dd": 103.7333
   },
   {
     "Date": "2025-06-12",
@@ -1745,8 +2028,8 @@
     "Ship Type": "Product tanker",
     "IMO No.": "9843027",
     "Area": "In port area",
-    "Latitude": 8,
-    "Longitude": 13,
+    "Latitude": "8° 41.68' S",
+    "Longitude": "13° 16.87' E",
     "Incident details": "Duty crew onboard an anchored tanker noticed two robbers armed with a knife near the forecastle deck. Alarm raised and the crew mustered. Upon hearing the alarm and seeing the crew's alertness, the robbers escaped with stolen ship’s stores. The incident was reported to port control via VHF channel 16. All crew are reported safe.",
     "Consequences for crew etc": "Ship’s stores stolen",
     "Action taken by master/crew": "Alarm raised and crew mustered",
@@ -1754,7 +2037,9 @@
     "Reported to...": "Port Authorities",
     "Reporting State": "Angola",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": -8.6833,
+    "Longitude_dd": 13.2667
   },
   {
     "Date": "2025-06-13",
@@ -1762,8 +2047,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9592446",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 08.28' N",
+    "Longitude": "103° 29.19' E",
     "Incident details": "Five robbers armed with knives boarded a ship underway, stole ship's properties and escaped. The theft was noticed during routine inspection and after reviewing CCTV footage.",
     "Consequences for crew etc": "Ship's properties stolen",
     "Action taken by master/crew": "Reviewed CCTV footage after noticed the theft during routine inspection",
@@ -1771,7 +2056,9 @@
     "Reported to...": "Incident reported to the flag state",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": 1.1333,
+    "Longitude_dd": 103.4833
   },
   {
     "Date": "2025-06-13",
@@ -1779,8 +2066,8 @@
     "Ship Type": "Chemical tanker",
     "IMO No.": "9154000",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 04.59' N",
+    "Longitude": "103° 42.40' E",
     "Incident details": "While underway, eight perpetrators armed with knives were sighted in the engine room. The general alarm was raised and crew mustered on the bridge. A search was conducted, with no perpetrators found onboard. The crew was not injured. Nothing was stolen. No assistance was required, and the ship resumed her voyage to China.\n\nThe incident was reported to Singapore VTIS. Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authority.",
     "Consequences for crew etc": "The crew was not injured.\n\nNothing was stolen.  \n",
     "Action taken by master/crew": "The general alarm was raised and crew mustered on the bridge. A search was conducted, with no perpetrators found onboard.",
@@ -1788,7 +2075,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authority.",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": 1.0667,
+    "Longitude_dd": 103.7
   },
   {
     "Date": "2025-06-13",
@@ -1796,8 +2085,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9683245",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 06.50' N",
+    "Longitude": "103° 44.09' E",
     "Incident details": "While underway, three perpetrators armed with knives were sighted in the engine room. The crew conducted a search, with no perpetrators found onboard. The crew was not injured. Nothing was stolen.\n\nThe incident was reported to Singapore VTIS Central. Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authority.\n",
     "Consequences for crew etc": "The crew was not injured. \n\nNothing was stolen.\n",
     "Action taken by master/crew": "The crew conducted a search, with no perpetrators found onboard.",
@@ -1805,7 +2094,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS Central.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authority.",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": 1.1,
+    "Longitude_dd": 103.7333
   },
   {
     "Date": "2025-06-14",
@@ -1813,8 +2104,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9718698",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.25' N",
+    "Longitude": "103° 37.65' E",
     "Incident details": "Six robbers armed with a gun and knife entered the engine room of a bulk carrier underway, threatened and took the oiler hostage. As the robbers retreated, the oiler raised the alarm. Crew mustered and a search was conducted. Incident reported to Singapore VTIS, and upon anchoring the Coast Guard boarded the vessel for inspection.",
     "Consequences for crew etc": "Oiler was threatened and taken hostage",
     "Action taken by master/crew": "Alarm raised, crew mustered and conducted a search",
@@ -1822,7 +2113,9 @@
     "Reported to...": "Singapore VTIS",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "The Singapore Police Coast Guard boarded the vessel for inspection",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6167
   },
   {
     "Date": "2025-06-16",
@@ -1830,8 +2123,8 @@
     "Ship Type": "Container ship",
     "IMO No.": "9970430",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 12.14' N",
+    "Longitude": "103° 23.13' E",
     "Incident details": "While underway, the bosun discovered that the lock on the deck store was broken. A search was conducted, with no perpetrators found onboard. All crew members were accounted for, with no injury reported. Some ship stores including one set of SCBA, one unit of compressor for SCBA bottle recharge and two units of radio transceiver were missing.\n\nThe master reported the incident to Singapore Port Operations Control Centre (POCC) via email on 17 Jun 2025. The ship was en route from Port Klang, Malaysia to Laem Chabang, Thailand.",
     "Consequences for crew etc": "All crew members were accounted for, with no injury reported.\n\nSome ship stores were reported stolen. \n",
     "Action taken by master/crew": "The crew conducted a search, with no perpetrators found onboard.",
@@ -1839,7 +2132,9 @@
     "Reported to...": "The incident was reported to Singapore POCC.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "No information available",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": 1.2,
+    "Longitude_dd": 103.3833
   },
   {
     "Date": "2025-06-17",
@@ -1847,8 +2142,8 @@
     "Ship Type": "Product tanker",
     "IMO No.": "9302982",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.40' N",
+    "Longitude": "103° 40.70' E",
     "Incident details": "Four unauthorised persons boarded the tanker underway and entered the engine room. The 2/E retreated to a safe location and immediately informed the Bridge. Alarm raised, crew mustered, and a search was conducted. The incident was reported to local authorities. Singapore Police Coast Guard boarded the tanker for investigation",
     "Consequences for crew etc": "NIL",
     "Action taken by master/crew": "Alarm raised, crew mustered, and a search was conducted",
@@ -1856,7 +2151,9 @@
     "Reported to...": "Singapore VTIS",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "The Singapore Police Coast Guard boarded the tanker for inspection",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6667
   },
   {
     "Date": "2025-06-18",
@@ -1864,8 +2161,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9425928",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 08.10' N",
+    "Longitude": "103° 45.50' E",
     "Incident details": "While underway, the crew sighted five perpetrators on the stern deck.  The master immediately raised the general alarm and mustered all crew. A search was conducted, with no perpetrators found onboard. All crew members were accounted for, with no injury reported. Nothing was stolen. The ship was scheduled to arrive at Singapore PEBGB to anchor at Eastern Bunkering B Anchorage (AEBB).\n\nThe incident was reported to Singapore VTIS. Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authority. \n\nUpon arrival at anchorage, Singapore PCG boarded the ship, conducted a search and confirmed no perpetrators were onboard. The crew reported that the starboard concertina wires were cut and was a possible entry point for the perpetrators.\n",
     "Consequences for crew etc": "All crew members were accounted for, with no injury reported.\n\nNothing was stolen.\n",
     "Action taken by master/crew": "The master raised the general alarm, mustered the crew and conducted a search. No perpetrators were found onboard.",
@@ -1873,7 +2170,9 @@
     "Reported to...": "The incident was reported to Singapore VTIS.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authority. \n\nUpon arrival at anchorage, Singapore PCG boarded the ship, conducted a search and confirmed no perpetrators were onboard.\n",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": 1.1333,
+    "Longitude_dd": 103.75
   },
   {
     "Date": "2025-06-19",
@@ -1881,15 +2180,17 @@
     "Ship Type": "Supply ship",
     "IMO No.": "9439955",
     "Area": "In port area",
-    "Latitude": 17,
-    "Longitude": 82,
+    "Latitude": "17° 00.30' N",
+    "Longitude": "82° 19.51' E",
     "Incident details": "While at anchor, 12 unarmed perpetrators boarded the ship via a fishing boat. The crew was not injured and nothing was stolen. \n\nThe incident was reported to the coastal State and an Indian Coast Guard ship was deployed. Five perpetrators were apprehended and handed over to local Port Police Station.\n",
     "Consequences for crew etc": "The crew was not injured.\n\nNothing was stolen.\n",
     "Action taken by master/crew": "Not stated",
     "Reported?": false,
     "Reporting State": "India",
     "Coastal State Action Taken": "Indian Coast Guard ship was deployed. Five perpetrators were apprehended and handed over to local Port Police Station.",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": 17,
+    "Longitude_dd": 82.3167
   },
   {
     "Date": "2025-06-20",
@@ -1897,8 +2198,8 @@
     "Ship Type": "Container ship",
     "IMO No.": "9626247",
     "Area": "In port area",
-    "Latitude": 22,
-    "Longitude": 91,
+    "Latitude": "22° 09.10' N",
+    "Longitude": "91° 44.90' E",
     "Incident details": "Eight robbers armed with knives boarded an anchored ship and escaped with stolen ship’s properties. The incident was reported to the ship’s agent and subsequently, Bangladesh Coast Guard conducted an investigation (information updated by IMBKL request 08 July) 2025 .",
     "Consequences for crew etc": "Ship’s properties stolen",
     "Action taken by master/crew": "A search was conducted",
@@ -1906,7 +2207,9 @@
     "Reported to...": "Incident was reported to the ship’s agent",
     "Reporting State": "Bangladesh",
     "Coastal State Action Taken": "The Coast Guard boarded the tanker for investigation",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": 22.15,
+    "Longitude_dd": 91.7333
   },
   {
     "Date": "2025-06-23",
@@ -1914,8 +2217,8 @@
     "Ship Type": "Chemical tanker",
     "IMO No.": "9866122",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.58' N",
+    "Longitude": "103° 41.00' E",
     "Incident details": "While underway, four perpetrators armed with knives were sighted in the engine room.  The ship’s general alarm was immediately activated and a search was conducted, with no perpetrators found onboard. All crew members were safe and accounted for, with no injury reported. Three paint drums were stolen.\n\nThe incident was reported to Singapore POCC. Upon arrival in Singapore, Singapore PCG boarded the ship, conducted a search and confirmed no perpetrators were onboard. \n\n",
     "Consequences for crew etc": "All crew members were safe and accounted for, with no injury reported.\n\nThree paint drums were stolen.\n",
     "Action taken by master/crew": "The ship’s general alarm was activated and a search was conducted, with no perpetrators found onboard.",
@@ -1923,7 +2226,9 @@
     "Reported to...": "The incident was reported to Singapore POCC.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Upon arrival in Singapore, Singapore PCG boarded the ship, conducted a search and confirmed no perpetrators were onboard.",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6833
   },
   {
     "Date": "2025-06-27",
@@ -1931,8 +2236,8 @@
     "Ship Type": "Container ship",
     "IMO No.": "9451939",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 02.98' N",
+    "Longitude": "103° 39.88' E",
     "Incident details": "Five robbers armed with knives boarded a ship underway and entered the engine room. Alarm raised and crew mustered. Seeing the crew alertness, the robbers escaped with the stolen engine spares. The incident was reported to the Singapore VTIS and Marine Police. Coast Guard boarded the ship for investigation.",
     "Consequences for crew etc": "Engine spares stolen",
     "Action taken by master/crew": "Alarm raised, crew mustered, and a search was carried out",
@@ -1940,7 +2245,9 @@
     "Reported to...": "Singapore VTIS & Singapore Marine Police",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Singapore Police Coast Guard boarded the ship for investigation",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": 1.0333,
+    "Longitude_dd": 103.65
   },
   {
     "Date": "2025-06-30",
@@ -1948,8 +2255,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9715438",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 04.80' N",
+    "Longitude": "103° 34.90' E",
     "Incident details": "Five robbers armed with knives boarded a ship underway and entered the engine room. Duty engineer noticed the robbers and informed the bridge. General alarm sounded and PA announcements made. A thorough search was conducted and ship's engine spares identified as stolen. Upon arrival at the anchorage, Singapore Police Coast Guard boarded the ship for investigation.",
     "Consequences for crew etc": "Engine spares stolen",
     "Action taken by master/crew": "Alarm raised, PA announcement made, crew mustered, and a search was carried out",
@@ -1957,7 +2264,9 @@
     "Reported to...": "Singapore VTIS",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Singapore Police Coast Guard boarded the ship for investigation.",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": 1.0667,
+    "Longitude_dd": 103.5667
   },
   {
     "Date": "2025-06-30",
@@ -1965,8 +2274,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9990349",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 02.90' N",
+    "Longitude": "103° 37.90' E",
     "Incident details": "The duty crew onboard the ship underway noticed four unauthorised persons jumping overboard. Alarm raised, VTIS Singapore notified, PA announcement made, crew mustered, and a search was carried out. It was discovered that the locking arrangements on the booby hatch cover of the steering gear room had been tampered with, but the hatch remained secured from the inside. Upon anchoring, the Singapore police coast guard inspected the ship and found nothing stolen.",
     "Consequences for crew etc": "The locking arrangements on the booby hatch cover of the steering gear room had been tampered",
     "Action taken by master/crew": "Alarm raised, PA announcement made, crew mustered, and a search was carried out",
@@ -1974,7 +2283,9 @@
     "Reported to...": "VTIS  Singapore",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "The Singapore police coast guard inspected the ship and found nothing stolen",
-    "MSC/Circ": 348
+    "MSC/Circ": 348,
+    "Latitude_dd": 1.0333,
+    "Longitude_dd": 103.6167
   },
   {
     "Date": "2025-06-30",
@@ -1982,8 +2293,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9601728",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 02.88' N",
+    "Longitude": "103° 38.77' E",
     "Incident details": "Duty AB onboard the ship underway, noticed a skiff approaching from the aft of the ship. Alarm raised, crew alerted, and all deck lights switched on, resulting in the skiff moving away. The incident was reported to the Singapore VTIS and authorities.",
     "Consequences for crew etc": "Nil",
     "Action taken by master/crew": "Alarm raised, crew alerted, and all deck lights switched on",
@@ -1991,7 +2302,9 @@
     "Reported to...": "Singapore VTIS and Singapore Authorities",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 349
+    "MSC/Circ": 349,
+    "Latitude_dd": 1.0333,
+    "Longitude_dd": 103.6333
   },
   {
     "Date": "2025-07-03",
@@ -1999,8 +2312,8 @@
     "Ship Type": "Product tanker",
     "IMO No.": "9732230",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 06.55' N",
+    "Longitude": "103° 44.56' E",
     "Incident details": "The duty crew on routine rounds, onboard a tanker underway, spotted six unauthorised persons near the stern. Alarm raised, resulting in the Ship's General alarm sounded. Upon hearing the alarm, the persons escaped without stealing anything. The incident was reported to the Singaporean Authorities. All crew are reported safe.",
     "Consequences for crew etc": "Nil",
     "Action taken by master/crew": "Alarm raised and general alarm sounded",
@@ -2008,7 +2321,9 @@
     "Reported to...": "Singapore authorities",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 350
+    "MSC/Circ": 350,
+    "Latitude_dd": 1.1,
+    "Longitude_dd": 103.7333
   },
   {
     "Date": "2025-07-03",
@@ -2016,8 +2331,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9802205",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 05.84' N",
+    "Longitude": "103° 44.09' E",
     "Incident details": "Duty crew onboard the ship underway observed four individuals disembarking from the stern. The alarm was immediately raised, and all crew members mustered and accounted for. Inspections revealed that spare parts for the generator had been stolen. The incident was reported to Singapore VTIS. Upon reaching Singapore, the police coast guard boarded the ship for an investigation and confirmed the theft of spare parts.",
     "Consequences for crew etc": "Spare parts for the generator had been stolen",
     "Action taken by master/crew": "Alarm raised, crew mustered, and a search was carrier out",
@@ -2025,7 +2340,9 @@
     "Reported to...": "Singapore VTIS",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 350
+    "MSC/Circ": 350,
+    "Latitude_dd": 1.0833,
+    "Longitude_dd": 103.7333
   },
   {
     "Date": "2025-07-04",
@@ -2033,8 +2350,8 @@
     "Ship Type": "Container ship",
     "IMO No.": "1025552",
     "Area": "In port area",
-    "Latitude": 3,
-    "Longitude": 98,
+    "Latitude": "3° 54.29' N",
+    "Longitude": "98° 46.29' E",
     "Incident details": "Four robbers armed with knives boarded an anchored ship. They threatened the duty OS & AB and tied them up. Officer on watch did not receive a response from the duty crew and immediately raised the alarm. Seeing the crew alertness, the robbers escaped with ship’s properties, ship’s stores, and crew personnel effects. The incident was reported to VTS.",
     "Consequences for crew etc": "The crew were threatened and tied up. Ship’s properties, ship’s stores, and crew personnel effects were stolen.",
     "Action taken by master/crew": "Alarm raised and general alarm sounded",
@@ -2042,7 +2359,9 @@
     "Reported to...": "Belawan VTS",
     "Reporting State": "Indonesia",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 350
+    "MSC/Circ": 350,
+    "Latitude_dd": 3.9,
+    "Longitude_dd": 98.7667
   },
   {
     "Date": "2025-07-05",
@@ -2050,8 +2369,8 @@
     "Ship Type": "Bulk carrier",
     "IMO No.": "9583627",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 02.79' N",
+    "Longitude": "103° 39.52' E",
     "Incident details": "Five robbers armed with a pistol boarded a ship underway and entered the engine room. Duty engineer noticed the robbers at the workshop and raised the alarm. Master made a PA announcement and crew mustered. Hearing the alarm, the robbers escaped with stolen ship’s engine spares. Incident reported to VTIS. The coast guard boarded the ship at the anchorage for inspection.",
     "Consequences for crew etc": "Ship’s engine spares stolen.",
     "Action taken by master/crew": "Alarm raised and general alarm sounded",
@@ -2059,7 +2378,9 @@
     "Reported to...": "Singapore VTIS",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "The coast guard boarded the ship at the anchorage for inspection.",
-    "MSC/Circ": 350
+    "MSC/Circ": 350,
+    "Latitude_dd": 1.0333,
+    "Longitude_dd": 103.65
   },
   {
     "Date": "2025-07-06",
@@ -2067,15 +2388,17 @@
     "Ship Type": "Container ship",
     "IMO No.": "9356830",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 02.70' N",
+    "Longitude": "103° 39.29' E",
     "Incident details": "Duty crew on rounds onboard a ship underway noticed four robbers, on deck, with a long knife and immediately notified the OOW. Alarm raised and crew mustered. Hearing the alarm, the robbers escaped. A search was made and found the steering gear room padlock was broken into. Nothing reported stolen.",
     "Consequences for crew etc": "Steering gear room padlock was broken.",
     "Action taken by master/crew": "Alarm raised and general alarm sounded",
     "Reported?": false,
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 350
+    "MSC/Circ": 350,
+    "Latitude_dd": 1.0333,
+    "Longitude_dd": 103.65
   },
   {
     "Date": "2025-07-06",
@@ -2083,8 +2406,8 @@
     "Ship Type": "Tanker",
     "IMO No.": "9534793",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.29' N",
+    "Longitude": "103° 38.20' E",
     "Incident details": "Duty crew onboard the tanker underway, observed three perpetrators in a craft approaching from the stern. Alarm raised and searchlight directed towards the boat resulting in the boat aborting the attempted approach. Incident reported to VTIS and a patrol vessel responded and followed the tanker for a while.",
     "Consequences for crew etc": "NIL",
     "Action taken by master/crew": "Alarm raised and searchlight directed towards the boat resulting in the boat aborting the attempted approach",
@@ -2092,7 +2415,9 @@
     "Reported to...": "Singapore VTIS",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "A patrol vessel responded  and followed the tanker for a while.",
-    "MSC/Circ": 350
+    "MSC/Circ": 350,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6333
   },
   {
     "Date": "2025-07-07",
@@ -2100,8 +2425,8 @@
     "Ship Type": "Container ship",
     "IMO No.": "9966764",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.79' N",
+    "Longitude": "103° 40.97' E",
     "Incident details": "While underway, the A/B was doing his security patrol when he noticed the padlock on aft station starboard side was damaged. A search was conducted, with no perpetrators found onboard. Subsequent review of CCTV footage revealed that six perpetrators had boarded the ship from starboard aft station. They escaped from the ship about 10 min later.\n\nThe incident was reported to Singapore POCC. Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authority. Singapore PCG boarded the ship for investigation, and confirmed that all crew members were accounted for, with no injury reported, and nothing was stolen.",
     "Consequences for crew etc": "All crew members were accounted for, with no injury reported.\n\nNothing was stolen. \n",
     "Action taken by master/crew": "A search was conducted, with no perpetrators found onboard.",
@@ -2109,7 +2434,9 @@
     "Reported to...": "The incident was reported to Singapore POCC.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authority. Singapore PCG boarded the ship for investigation, and confirmed that all crew members were accounted for, with no injury reported, and nothing was stolen.",
-    "MSC/Circ": 350
+    "MSC/Circ": 350,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6667
   },
   {
     "Date": "2025-07-08",
@@ -2117,8 +2444,8 @@
     "Ship Type": "Tanker",
     "IMO No.": "9523782",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 10.96' N",
+    "Longitude": "103° 51.24' E",
     "Incident details": "While underway, the 2nd Engineer discovered the aft door behind the galley was ajar. Upon entering the engine room, he found that engine stores and spare parts were missing. The crew did a thorough security search, but no perpetrators were found onboard, and no suspicious crafts sighted in the vicinity. All crew members were accounted for, with no injury reported. Internal investigation suggests that perpetrators may have boarded the ship via the skylight hatch located at the poop deck portside provision hatch, and escaped through the aft door.\n\nThe incident was reported to Maritime and Port Authority of Singapore (MPA).",
     "Consequences for crew etc": "All crew members were accounted for, with no injury reported.\n\nSome engine stores and spare parts were stolen. \n",
     "Action taken by master/crew": "A security search was conducted, with no perpetrators found on board.",
@@ -2126,15 +2453,17 @@
     "Reported to...": "The incident was reported to Singapore MPA.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Nil",
-    "MSC/Circ": 350
+    "MSC/Circ": 350,
+    "Latitude_dd": 1.1667,
+    "Longitude_dd": 103.85
   },
   {
     "Date": "2025-07-08",
     "Ship Name": "Name Withheld",
     "Ship Type": "Product tanker",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.59' N",
+    "Longitude": "103° 41.31' E",
     "Incident details": "Six unauthorised persons boarded the tanker underway and entered the engine room. Alarm raised and crew mustered. Seeing the crew alertness, the perpetrators escaped with the stolen engine spares. The incident was reported to VTIS. All crew members reported safe.",
     "Consequences for crew etc": "Steering gear room padlock, Rope storeroom padlock and Engine Casing door padlock were broken into. Ship’s engine spares were stolen",
     "Action taken by master/crew": "Alarm raised, crew mustered, and a search was carried out",
@@ -2142,7 +2471,9 @@
     "Reported to...": "VTIS Singapore",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 350
+    "MSC/Circ": 350,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6833
   },
   {
     "Date": "2025-07-09",
@@ -2150,8 +2481,8 @@
     "Ship Type": "Tanker",
     "IMO No.": "9850006",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
+    "Latitude": "1° 03.59' N",
+    "Longitude": "103° 41.31' E",
     "Incident details": "While underway, the crew spotted a blue wooden boat alongside port quarter of ship. The master raised the alarm and the crew mustered. Upon hearing the alarm, six perpetrators were observed escaping into the boat. A security search was conducted, with no perpetrators found onboard. The padlocks for the deck store, steering gear room and engine casing were found broken. Few items of ship stores were stolen. The crew was not injured.\n\nThe incident was reported to Singapore POCC. Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF was notified of the incident. Information of the incident was shared with the Indonesian authority.\n",
     "Consequences for crew etc": "The crew was not injured.\n\nFew items of ship stores were stolen. \n",
     "Action taken by master/crew": "The master raised the general alarm and mustered the crew. A security search was conducted, with no perpetrators found onboard.",
@@ -2159,7 +2490,9 @@
     "Reported to...": "The incident was reported to Singapore POCC.",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF was notified of the incident. Information of the incident was shared with the Indonesian authority.",
-    "MSC/Circ": 350
+    "MSC/Circ": 350,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6833
   },
   {
     "Date": "2025-07-09",
@@ -2167,8 +2500,8 @@
     "Ship Type": "LPG tanker",
     "IMO No.": "9796705",
     "Area": "In port area",
-    "Latitude": 22,
-    "Longitude": 91,
+    "Latitude": "22° 08.19' N",
+    "Longitude": "91° 43.79' E",
     "Incident details": "Seven unauthorised individuals boarded an anchored tanker. Alarm raised resulting in the persons escaping without stealing anything. All crew reported safe.",
     "Consequences for crew etc": "Nil",
     "Action taken by master/crew": "Alarm raised",
@@ -2176,7 +2509,9 @@
     "Reported to...": "NA",
     "Reporting State": "Bangladesh",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 350
+    "MSC/Circ": 350,
+    "Latitude_dd": 22.1333,
+    "Longitude_dd": 91.7167
   },
   {
     "Date": "2025-07-20",
@@ -2184,8 +2519,8 @@
     "Ship Type": "LPG tanker",
     "IMO No.": "9694373",
     "Area": "In port area",
-    "Latitude": 10,
-    "Longitude": 75,
+    "Latitude": "10° 18.18' N",
+    "Longitude": "75° 33.11' W",
     "Incident details": "Duty crew onboard an anchored tanker noticed two robbers armed with knives and immediately notified the bridge. Alarm raised resulting in the perpetrators escaping. A search was conducted and nothing was reported stolen.",
     "Consequences for crew etc": "NIL",
     "Action taken by master/crew": "Alarm raised and a search was carried out.",
@@ -2193,15 +2528,17 @@
     "Reported to...": "Port Control",
     "Reporting State": "Colombia",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 350
+    "MSC/Circ": 350,
+    "Latitude_dd": 10.3,
+    "Longitude_dd": -75.55
   },
   {
     "Date": "2025-08-03",
     "Ship Name": "HK Tug 8/LKH 2882",
     "Ship Type": "Tug",
     "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 104,
+    "Latitude": "1° 14.18' N",
+    "Longitude": "104° 02.30' E",
     "Incident details": "While the tug boat towing barge loaded with scrap metal was underway, 10 perpetrators in nine sampans came alongside the barge and removed some scrap metals from the deck of the barge. The crew was not injured. \n\nThe master reported the incident to Singapore Vessel Traffic Information System (VTIS) East.\nAt the time of the incident, HK Tug 8 was towing barge LKH 2882 loaded with scrap metal from Singapore to Phu My, Vietnam.",
     "Consequences for crew etc": "The crew was not injured.  \n\nSome scrap metals were stolen from the barge.\n",
     "Action taken by master/crew": "Not known",
@@ -2209,70 +2546,9 @@
     "Reported to...": "Singapore VTIS East",
     "Reporting State": "Singapore",
     "Coastal State Action Taken": "NA",
-    "MSC/Circ": 351
-  },
-  {
-    "Date": "2025-08-28",
-    "Ship Name": "Georgitsi",
-    "Ship Type": "Bulk carrier",
-    "IMO No.": "9590113",
-    "Area": "In territorial waters",
-    "Latitude": 1,
-    "Longitude": 103,
-    "Incident details": "While underway, three unarmed perpetrators were sighted in the engine room. The ship’s general alarm was activated and the crew mustered. The perpetrators escaped upon being discovered. A security search was conducted, with no perpetrators found onboard and nothing was stolen. All crew members were accounted for, with no injury reported. \n\nThe incident was reported to Singapore Vessel Traffic Information System (VTIS) West. Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the Singapore Strait (SS). The Republic of Singapore Navy's (RSN) Maritime Security Task Force (MSTF) and Singapore Police Coast Guard (PCG) were notified of the incident. Information of the incident was shared with the Indonesian authorities. Upon arrival in Singapore, Singapore PCG boarded the ship for investigation, with no perpetrators found onboard.\n",
-    "Consequences for crew etc": "All crew members were accounted for, with no injury reported. \n\nNothing was stolen.\n",
-    "Action taken by master/crew": "The ship’s general alarm was activated and the crew mustered. A security search was conducted.",
-    "Reported?": true,
-    "Reported to...": "Singapore VTIS West",
-    "Reporting State": "Singapore",
-    "Coastal State Action Taken": "Safety broadcasts on anti-piracy watch were initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authorities. Upon arrival in Singapore, Singapore PCG boarded the ship for investigation, with no perpetrators found onboard.",
-    "MSC/Circ": 351
-  },
-  {
-    "Date": "2025-09-09",
-    "Ship Name": "Verity",
-    "Ship Type": "Tanker",
-    "IMO No.": "9505388",
-    "Area": "In territorial waters",
-    "Latitude": 6,
-    "Longitude": 116,
-    "Incident details": "Duty crew onboard an anchored tanker spotted one unauthorised person onboard the vessel. Alarm raised and PA announcement made. Seeing the crew alertness, the person jumped overboard and escaped with his accomplice in a small boat. Incident reported to port control.",
-    "Consequences for crew etc": "Nil",
-    "Action taken by master/crew": "Alarm raised and PA announcement",
-    "Reported?": true,
-    "Reported to...": "Port control",
-    "Coastal State Action Taken": "N/A",
-    "MSC/Circ": 352
-  },
-  {
-    "Date": "2025-09-14",
-    "Ship Name": "MV Super Shuttle Ferry 18",
-    "Ship Type": "Passenger ship",
-    "IMO No.": "8616960",
-    "Area": "In port area",
-    "Latitude": 13,
-    "Longitude": 121,
-    "Incident details": "While at anchor, the ship Master reported to Philippine Coast Guard (PCG) and Coast Guard Station (CGS) Batangas that unidentified men were seen boarding the vessel.  \nCGS Batangas in coordination with Philippine National Police Maritime Group (PNP-MG) immediately responded to the distress call by the ship Master. While in the area, the Team intercepted a fishing banca with two individuals on board. The individuals were found in possession of the emergency generator spare parts, which had been originally located on the vessel's first deck. The two individuals were immediately apprehended. \nCGS Batangas together with Coast Guard Investigation and Detection Management Service, and representative from the Asian Marine Transport Corporation proceeded to the city prosecutor's office, and promptly coordinated with the city prosecutor for filing of the perpetrators.\n",
-    "Consequences for crew etc": "Some spare parts of the emergency generator were stolen.",
-    "Action taken by master/crew": "Not stated",
-    "Reported?": true,
-    "Reported to...": "PCG",
-    "Coastal State Action Taken": "CGS Batangas in coordination with PNP-MG immediately responded to the distress call by the Master. \nThe Team intercepted a fishing banca with two individuals found in possession of the emergency generator spare parts from the ship. The two individuals were immediately apprehended.  \nCGS Batangas together with Coast Guard Investigation and Detection Management Service, and representative from the Asian Marine Transport Corporation proceeded to the city prosecutor's office and promptly coordinated with the city prosecutor for filing of the perpetrators.\n",
-    "MSC/Circ": 352
-  },
-  {
-    "Date": "2025-09-17",
-    "Ship Name": "Adriatic Gas",
-    "Ship Type": "LPG tanker",
-    "IMO No.": "9662021",
-    "Area": "In port area",
-    "Latitude": 22,
-    "Longitude": 91,
-    "Incident details": "Four individuals attempted to board an anchored tanker. Upon seeing the deck watch crew, they aborted the boarding attempt and escaped.",
-    "Consequences for crew etc": "Nil",
-    "Action taken by master/crew": "n/a",
-    "Reported?": false,
-    "Coastal State Action Taken": "n/a",
-    "MSC/Circ": 352
+    "MSC/Circ": 351,
+    "Latitude_dd": 1.2333,
+    "Longitude_dd": 104.0333
   }
+
 ]
