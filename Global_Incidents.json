@@ -2750,5 +2750,43 @@
     "MSC/Circ": 353,
     "Latitude_dd": -5.8662,
     "Longitude_dd": 13.4
+  },
+  {
+    "Date": "2025-10-16",
+    "Ship Name": "Seaspan Lahore",
+    "Ship Type": "Container ship",
+    "IMO No.": "9301811",
+    "Area": "In port area",
+    "Latitude": "6° 24.06' N",
+    "Longitude": "3° 24.00' E",
+    "Incident details": "Duty crew onboard a container ship underway noticed unauthorized person attempting to board the vessel and immediately notified the bridge. Seeing the crew alertness, the person aborted the attempt. The incident reported to port control.",
+    "Consequences for crew etc": "Nil",
+    "Action taken by master/crew": "Alert all the crew members",
+    "Reported?": true,
+    "Reported to...": "Port Control",
+    "Reporting State": "Nigeria",
+    "Coastal State Action Taken": "NA",
+    "MSC/Circ": 353,
+    "Latitude_dd": 6.401,
+    "Longitude_dd": 3.4
+  },
+  {
+    "Date": "2025-10-16",
+    "Ship Name": "Segway",
+    "Ship Type": "Tanker",
+    "IMO No.": "1050959",
+    "Area": "In port area",
+    "Latitude": "8° 43.00' S",
+    "Longitude": "13° 16.39' E",
+    "Incident details": "Two unauthorized persons boarded an anchored tanker via the forecastle. Alert crew noticed the persons and raised the alarm resulting in them escaping with stolen ship’s stores. Incident reported to Port Control.",
+    "Consequences for crew etc": "Ship’s stores stolen",
+    "Action taken by master/crew": "Alarm raised",
+    "Reported?": true,
+    "Reported to...": "Port Control",
+    "Reporting State": "Angola",
+    "Coastal State Action Taken": "NA",
+    "MSC/Circ": 353,
+    "Latitude_dd": -8.7167,
+    "Longitude_dd": 13.2732
   }
 ]
