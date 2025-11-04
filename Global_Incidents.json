@@ -2677,6 +2677,25 @@
     "Longitude_dd": 91.792
   },
   {
+    "Date": "2025-09-18",
+    "Ship Name": "Ken Ann",
+    "Ship Type": "Bulk carrier",
+    "IMO No.": "9846158",
+    "Area": "In port area",
+    "Latitude": "6° 05.90' S",
+    "Longitude": "106° 53.00' E",
+    "Incident details": "Duty AB onboard a berthed ship spotted three robbers armed with knives emerging from the engine room. One robber attempted to attack the duty crew, who quickly retreated and informed the duty officer. Three additional robbers were seen disembarking via the gangway. Despite the crew's vigilance, the robbers escape with stolen ship's properties. The incident was reported to Port Facility Security Officer.",
+    "Consequences for crew etc": "Ship’s properties stolen",
+    "Action taken by master/crew": "Alert all the crew members",
+    "Reported?": true,
+    "Reported to...": "Port Facility Security Officer",
+    "Reporting State": "Indonesia",
+    "Coastal State Action Taken": "NA",
+    "MSC/Circ": 352,
+    "Latitude_dd": -6.0983,
+    "Longitude_dd": 106.8833
+  },
+  {
     "Date": "2025-09-23",
     "Ship Name": "Vivit Arabia LNG",
     "Ship Type": "Gas carrier - LNG",
@@ -2772,6 +2791,25 @@
   },
   {
     "Date": "2025-10-16",
+    "Ship Name": "Power Globe",
+    "Ship Type": "Bulk carrier",
+    "IMO No.": "9479319",
+    "Area": "In territorial waters",
+    "Latitude": "1° 04.50' N",
+    "Longitude": "103° 35.70' E",
+    "Incident details": "While underway, two perpetrators armed with knives were sighted by the crew in the steering gear room. Upon seeing the crew, the perpetrators escaped immediately. The master raised the general alarm and the crew was mustered. A search onboard was conducted, with no perpetrators found onboard. All crew members were accounted for, with no injury reported. \nThe master reported the incident to Singapore Vessel Traffic Information System (VTIS) West. Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the Singapore Strait (SS). The Republic of Singapore Navy’s (RSN) Maritime Security Task Force (MSTF) and Singapore Police Coast Guard (PCG) were notified of the incident. Information of the incident was shared with the Indonesian authorities. Singapore PCG subsequently boarded the ship for investigation and security search. Some engine spares were reported missing.\n",
+    "Consequences for crew etc": "The crew was not injured.\n\nSome engine spares were stolen.\n",
+    "Action taken by master/crew": "The master raised the general alarm and the crew was mustered. A search onboard was conducted, with no perpetrators found onboard.",
+    "Reported?": true,
+    "Reported to...": "The incident was reported to Singapore VTIS",
+    "Reporting State": "Singapore",
+    "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authorities. Singapore PCG subsequently boarded the ship for investigation and security search. Some engine spares were reported missing.",
+    "MSC/Circ": 353,
+    "Latitude_dd": 1.075,
+    "Longitude_dd": 103.595
+  },
+  {
+    "Date": "2025-10-16",
     "Ship Name": "Segway",
     "Ship Type": "Tanker",
     "IMO No.": "1050959",
@@ -2788,5 +2826,23 @@
     "MSC/Circ": 353,
     "Latitude_dd": -8.7167,
     "Longitude_dd": 13.2732
+  },
+  {
+    "Date": "2025-11-03",
+    "Ship Name": "Stolt Sagaland",
+    "Ship Type": "Chemical tanker",
+    "IMO No.": "9352200",
+    "Area": "In international waters",
+    "Latitude": "0° 03.14' N",
+    "Longitude": "50° 31.21' E",
+    "Incident details": "Four pirates armed with guns fired upon the tanker underway. The onboard, armed security guard fired warning shots resulting in the pirates aborting the attack and retreating towards their mother vessel. Crew and vessel reported safe.",
+    "Consequences for crew etc": "Nil",
+    "Action taken by master/crew": "The onboard armed security guard fired warning shots",
+    "Reported?": true,
+    "Reported to...": "UKMTO",
+    "Coastal State Action Taken": "NA",
+    "MSC/Circ": 354,
+    "Latitude_dd": 0.0523,
+    "Longitude_dd": 50.5202
   }
 ]
