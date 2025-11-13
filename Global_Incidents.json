@@ -2844,5 +2844,23 @@
     "MSC/Circ": 354,
     "Latitude_dd": 0.0523,
     "Longitude_dd": 50.5202
+  },
+  {
+    "Date": "2025-11-06",
+    "Ship Name": "Hellas Aphhrodite",
+    "Ship Type": "Product tanker",
+    "IMO No.": "9722766",
+    "Area": "In international waters",
+    "Latitude": "2° 05.00' N",
+    "Longitude": "57° 10.00' E",
+    "Incident details": "Pirates in a small boat approached, fired upon and boarded a tanker underway. A suspected mother vessel was spotted in the vicinity. The Master raised the alarm, contacted the authorities, and all crew retreated into the citadel. Coalition forces responded and boarded the tanker. All crew reported to be safe.",
+    "Consequences for crew etc": "Nil",
+    "Action taken by master/crew": "The Master raised the alarm, contacted the authorities, and all crew retreated into the citadel",
+    "Reported?": true,
+    "Reported to...": "NA",
+    "Coastal State Action Taken": "Coalition forces responded and boarded the tanker",
+    "MSC/Circ": 354,
+    "Latitude_dd": 2.0833,
+    "Longitude_dd": 57.1667
   }
 ]
