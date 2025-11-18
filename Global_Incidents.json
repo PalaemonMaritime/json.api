@@ -2862,5 +2862,24 @@
     "MSC/Circ": 354,
     "Latitude_dd": 2.0833,
     "Longitude_dd": 57.1667
+  },
+  {
+    "Date": "2025-11-14",
+    "Ship Name": "Solar Roma",
+    "Ship Type": "Chemical tanker",
+    "IMO No.": "9887372",
+    "Area": "In port area",
+    "Latitude": "3° 55.90' N",
+    "Longitude": "98° 45.20' E",
+    "Incident details": "OOW onboard an anchored tanker noticed an unauthorised person coming out of the bosun store. Alarm raised and crew mustered, resulting in the person escaping. Crew conducted a search, and it was discovered that the padlock of the bosun store had been broken into, and some of the ship’s properties were reported as stolen. Port Authority informed.",
+    "Consequences for crew etc": "ship’s properties stolen",
+    "Action taken by master/crew": "Alarm raised, crew mustered and search was conducted",
+    "Reported?": true,
+    "Reported to...": "Port Authority",
+    "Reporting State": "Indonesia",
+    "Coastal State Action Taken": "NA",
+    "MSC/Circ": 354,
+    "Latitude_dd": 3.9317,
+    "Longitude_dd": 98.7533
   }
 ]
