@@ -2881,5 +2881,42 @@
     "MSC/Circ": 354,
     "Latitude_dd": 3.9317,
     "Longitude_dd": 98.7533
+  },
+  {
+    "Date": "2025-11-15",
+    "Ship Name": "Fairchem Mako",
+    "IMO No.": "9826574",
+    "Area": "In territorial waters",
+    "Latitude": "1° 03.79' N",
+    "Longitude": "103° 36.21' E",
+    "Incident details": "C/E onboard a tanker underway spotted three-armed robbers in the engine room workshop. The general alarm was raised, a PA announcement was made, and VTIS West was informed. The robbers threatened the duty engine crew with machetes and metal rods before fleeing. On conducting a search, it was reported that the ship's engine spares had been stolen.",
+    "Consequences for crew etc": "ship's engine spares stolen",
+    "Action taken by master/crew": "The general alarm was raised, a PA announcement was made, and VTIS West was informed.",
+    "Reported?": true,
+    "Reported to...": "VTIS  Singapore",
+    "Reporting State": "Singapore",
+    "Coastal State Action Taken": "NA",
+    "MSC/Circ": 354,
+    "Latitude_dd": 1.0632,
+    "Longitude_dd": 103.6035
+  },
+  {
+    "Date": "2025-11-16",
+    "Ship Name": "Pedhoulas Fighter",
+    "Ship Type": "Bulk carrier",
+    "IMO No.": "9983530",
+    "Area": "In territorial waters",
+    "Latitude": "1° 04.06' N",
+    "Longitude": "103° 36.84' E",
+    "Incident details": "While underway, the crew discovered that the padlock leading to the engine room store was broken. Some footprints were also sighted in the engine room. A search onboard was conducted, with no sighting of perpetrators. All crew members were accounted for, with no injury reported. Some engine spare parts and fire hydrant nozzles were stolen from the engine room store. \n\nThe ship subsequently anchored at Singapore Eastern Bunkering Bravo and the master reported the incident to Singapore Vessel Traffic Information System (VTIS). \n\nSafety broadcast on anti-piracy watch was initiated to alert all mariners. The Republic of Singapore Navy’s (RSN) Maritime Security Task Force (MSTF) and Singapore Police Coast Guard (PCG) were notified of the incident. Information of the incident was shared with the Indonesian authorities. Singapore PCG subsequently boarded the ship for security search, with no perpetrators found onboard.\n",
+    "Consequences for crew etc": "The crew was not injured. \n\nSome engine spare parts and fire hydrant nozzles were stolen. \n",
+    "Action taken by master/crew": "A search was carried out. \n",
+    "Reported?": true,
+    "Reported to...": "The incident was reported to Singpaore VTIS, East Control",
+    "Reporting State": "Singapore",
+    "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to alert all mariners. The RSN’s MSTF and Singapore PCG were notified of the incident. Information of the incident was shared with the Indonesian authorities. \n\nSingapore PCG   subsequently boarded the ship for security search, with no perpetrators found onboard.\n",
+    "MSC/Circ": 354,
+    "Latitude_dd": 1.0677,
+    "Longitude_dd": 103.614
   }
 ]
