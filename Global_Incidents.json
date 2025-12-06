@@ -2847,7 +2847,7 @@
   },
   {
     "Date": "2025-11-06",
-    "Ship Name": "Hellas Aphhrodite",
+    "Ship Name": "Hellas Aphrodite",
     "Ship Type": "Product tanker",
     "IMO No.": "9722766",
     "Area": "In international waters",
@@ -2992,5 +2992,24 @@
     "MSC/Circ": 354,
     "Latitude_dd": -19.817,
     "Longitude_dd": 34.8343
+  },
+  {
+    "Date": "2025-11-27",
+    "Ship Name": "HK Tug 8 & LKH 2882",
+    "Ship Type": "Tug",
+    "IMO No.": "9557537",
+    "Area": "In territorial waters",
+    "Latitude": "1° 12.24′ N",
+    "Longitude": "103° 54.52′ E",
+    "Incident details": "While the tug boat towing barge was underway, the master reported to Singapore Vessel Traffic Information System (VTIS) that a small boat with four to five perpetrators was alongside the barge and were removing the scrap metal on the barge.\n\nOver the next hour, several other small boats arrived and departed in phases, with a peak of seven boats engaged in removing the scrap metal from the barge. In total, approximately 45 perpetrators in 11 small boats were observed. \n\nSingapore VTIS was kept updated and crew safety was confirmed throughout.\n\nThe company subsequently instructed the master to cross towards Singapore. The small boats later dispersed upon the approach of a Singapore Police Coast Guard (PCG) vessel. A small boat tried to return but escaped following the intervention of the Singapore PCG vessel. The tug boat and barge subsequently resumed their voyage to Vietnam.\n\nAll crew members were accounted for, with no injuries reported. Safety broadcasts on anti-piracy watch were issued to remind all vessels to maintain vigilance.",
+    "Consequences for crew etc": "The crew was not injured. \n\nSome scrap metal was stolen from the barge. \n",
+    "Action taken by master/crew": "-",
+    "Reported?": true,
+    "Reported to...": "The incident was reported to Singapore VTIS.",
+    "Reporting State": "Singapore",
+    "Coastal State Action Taken": "The small boats with perpetrators later dispersed upon the approach of a Singapore Police Coast Guard (PCG) vessel. A small boat tried to return but escaped following the intervention of the Singapore PCG vessel. The tug boat and barge subsequently resumed their voyage to Vietnam.\n\nSafety broadcasts on anti-piracy watch were issued to remind all vessels to maintain vigilance.\n",
+    "MSC/Circ": 354,
+    "Latitude_dd": 1.204,
+    "Longitude_dd": 103.9086666667
   }
 ]
