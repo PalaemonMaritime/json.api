@@ -3164,7 +3164,26 @@
     "Longitude_dd": -77.2223
   },
   {
-    "Date": "2026-1-4",
+    "Date": "2026-01-03",
+    "Ship Name": "Super Shuttle RoRo 9",
+    "Ship Type": "Ro-ro-cargo ship",
+    "IMO No.": "7902647",
+    "Area": "In port area",
+    "Latitude": "13° 46.00' N",
+    "Longitude": "120° 59.00' E",
+    "Incident details": "While at anchor, perpetrators from one motor banca boarded the ship and stole some cables. \n\nThe incident was reported to Philippine Coast Guard (PCG) Substation Bauan. The PCG apprehended one perpetrator onboard the motor banca and conducted comprehensive search onboard and apprehended another four perpetrators. The perpetrators were charged under Violation of Article 122 of the revised Penal Code as Amended by R.A 7659- Piracy in General and Mutiny on the High Seas or in Philippine waters.\n",
+    "Consequences for crew etc": "Some cables were stolen.",
+    "Action taken by master/crew": "The incident was reported to PCG Substation Bauan.",
+    "Reported?": true,
+    "Reported to...": "The incident was reported to PCG Substation Bauan",
+    "Reporting State": "Philippines",
+    "Coastal State Action Taken": "The PCG apprehended one perpetrator onboard the motor banca and conducted comprehensive search onboard the RoRo cargo ship, and apprehended another four perpetrators who were charged.\n",
+    "MSC/Circ": 255,
+    "Latitude_dd": 13.7667,
+    "Longitude_dd": 120.9833
+  },
+  {
+    "Date": "2026-01-04",
     "Ship Name": "Name Withheld",
     "Ship Type": "Bulk carrier",
     "Area": "In territorial waters",
