@@ -3254,6 +3254,25 @@
     "MSC/Circ": 356,
     "Latitude_dd": 1.2663,
     "Longitude_dd": 104.1537
+  },
+{
+    "Date": "2026-01-27",
+    "Ship Name": "Penelope Oldendorff",
+    "Ship Type": "Bulk carrier",
+    "IMO No.": "9464596",
+    "Area": "In territorial waters",
+    "Latitude": "4° 53.10' N",
+    "Longitude": "1° 39.70' W",
+    "Incident details": "Duty crew on routine rounds onboard an anchored ship heard voices from the paint store and immediately informed the bridge. Fog horn sounded and port control notified. Seeing the alerted crews, the persons escaped with stolen ship’s stores in a small boat. Port control dispatched a patrol boat to the vessel for investigation.\n\n",
+    "Consequences for crew etc": "Ship’s stores were stolen",
+    "Action taken by master/crew": "Alarm raised and crew mustered",
+    "Reported?": true,
+    "Reported to...": "Port Control",
+    "Coastal State Action Taken": "Patrol boat was dispatched and security personnel boarded the vessel.",
+    "MSC/Circ": 256,
+    "Latitude_dd": 4.885,
+    "Longitude_dd": -1.6617
   }
 ]
+
 
