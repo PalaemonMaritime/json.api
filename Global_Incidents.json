@@ -3255,6 +3255,22 @@
     "Latitude_dd": 1.2663,
     "Longitude_dd": 104.1537
   },
+  {
+    "Date": "2026-01-26",
+    "Ship Name": "Maersk Cap Jackson",
+    "Ship Type": "Container ship",
+    "IMO No.": "9484560",
+    "Area": "In port area",
+    "Latitude": "14° 33.09' N",
+    "Incident details": "While at anchor, a crew member was confronted by six perpetrators, reportedly armed with knives at Bay 02 on the forward part of the ship. The crew was threatened, ordered to remain silent and confined in the bosun store located beneath the forward mooring station. The crew member later freed himself and activated the fire alarm. The perpetrators briefly returned but were unable to gain entry, and subsequently escaped from the ship via the deck leading overboard. \n\nAn immediate search was conducted onboard, with no perpetrators found onboard. The crew was not injured. Some unsecured items were stolen. \n\nSubsequent investigation by ship crew revealed that the padlock and securing arrangement of the bosun store door had been tampered with, indicating forced entry. The stern access to the engineer’s passageway was also found to have been tampered with.\n\nThe incident was reported to local Coast Guard and customs authorities.\n",
+    "Consequences for crew etc": "Some unsecured items were stolen",
+    "Action taken by master/crew": "An immediate search was conducted onboard without any perpetrators been found.",
+    "Reported?": true,
+    "Reported to...": "An immediate search was conducted onboard without any perpetrators been found.",
+    "Coastal State Action Taken": "Nil",
+    "MSC/Circ": 256,
+    "Latitude_dd": 14.5515
+  },
 {
     "Date": "2026-01-27",
     "Ship Name": "Penelope Oldendorff",
@@ -3274,5 +3290,6 @@
     "Longitude_dd": -1.6617
   }
 ]
+
 
 
