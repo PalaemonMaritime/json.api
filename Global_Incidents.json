@@ -3254,15 +3254,32 @@
     "MSC/Circ": 356,
     "Latitude_dd": 1.2663,
     "Longitude_dd": 104.1537
+ },
+  {
+    "Date": "2026-01-25",
+    "Ship Name": "Maersk Vilnius",
+    "Ship Type": "Container ship",
+    "IMO No.": "9408956",
+    "Area": "In port area",
+    "Latitude": "14° 31.08' N",
+    "Longitude": "120° 47.43' E",
+    "Incident details": "While at anchor, the crew noticed that several items, namely cable wires and parts of the ship’s beam were missing from the ship. The master subsequently confirmed that no other losses or damages were sustained, and that no further assistance was required.  The crew were not injured. \n\nUpon receipt of the report, Coast Guard Station (CGS) Manila immediately directed Coast Guard Sub-Station (CGSS) Cavite City to conduct maritime patrol (MARPAT) operations and establish contact with the ship. Thereafter, all CGSS within the Cavite area were directed to conduct shore patrols and maintain heightened vigilance, particularly for possible sightings or recovery of the above-mentioned items. \n",
+    "Consequences for crew etc": "Some cable wires and parts of the ship’s beam were stolen. \n\nThe crew were not injured. \n",
+    "Action taken by master/crew": "The master subsequently confirmed that no other losses or damages were sustained, and that no further assistance was required.",
+    "Reported?": true,
+    "Reported to...": "The incident was reported to Coast Guard Station Manila and Philippine Ports Authority.",
+    "Coastal State Action Taken": "CGS Manila immediately directed CGSS Cavite City to conduct maritime patrol (MARPAT) operations. And all Coast Guard Sub-stations within the Cavite area were directed to conduct shore patrols and maintain heightened vigilance, particularly for possible sightings or recovery of the above-mentioned items.",
+    "MSC/Circ": 256,
+    "Latitude_dd": 14.518,
+    "Longitude_dd": 120.7905
   },
-   {
+  {
     "Date": "2026-01-26",
     "Ship Name": "Maersk Cap Jackson",
     "Ship Type": "Container ship",
     "IMO No.": "9484560",
     "Area": "In port area",
     "Latitude": "14° 33.09' N",
-    "Longitude": "120° 49.7' E",
     "Incident details": "While at anchor, a crew member was confronted by six perpetrators, reportedly armed with knives at Bay 02 on the forward part of the ship. The crew was threatened, ordered to remain silent and confined in the bosun store located beneath the forward mooring station. The crew member later freed himself and activated the fire alarm. The perpetrators briefly returned but were unable to gain entry, and subsequently escaped from the ship via the deck leading overboard. \n\nAn immediate search was conducted onboard, with no perpetrators found onboard. The crew was not injured. Some unsecured items were stolen. \n\nSubsequent investigation by ship crew revealed that the padlock and securing arrangement of the bosun store door had been tampered with, indicating forced entry. The stern access to the engineer’s passageway was also found to have been tampered with.\n\nThe incident was reported to local Coast Guard and customs authorities.\n",
     "Consequences for crew etc": "Some unsecured items were stolen",
     "Action taken by master/crew": "An immediate search was conducted onboard without any perpetrators been found.",
@@ -3270,10 +3287,9 @@
     "Reported to...": "An immediate search was conducted onboard without any perpetrators been found.",
     "Coastal State Action Taken": "Nil",
     "MSC/Circ": 256,
-    "Latitude_dd": 14.5515,
-    "Longitude_dd": 120.8283
+    "Latitude_dd": 14.5515
   },
-{
+  {
     "Date": "2026-01-27",
     "Ship Name": "Penelope Oldendorff",
     "Ship Type": "Bulk carrier",
@@ -3290,6 +3306,42 @@
     "MSC/Circ": 256,
     "Latitude_dd": 4.885,
     "Longitude_dd": -1.6617
+  },
+  {
+    "Date": "2026-02-02",
+    "Ship Name": "Sevillia",
+    "Ship Type": "Container ship",
+    "IMO No.": "9362712",
+    "Area": "In port area",
+    "Latitude": "4° 15.10' S",
+    "Longitude": "152° 11.00' E",
+    "Incident details": "Robbers in a canoe, armed with machetes approached an anchored container ship. Duty crew spotted one robber on deck and immediately raised the alarm. All crew members were instructed to remain inside the accommodation area and secure all access doors. Port authorities contacted but no response received. The incident was also reported to the local agent to notify the authorities. Two life rafts were stolen. The following morning, patrol boats arrived and recovered one of the life rafts, which was opened and unusable. Upon docking, Customs Border Protection officials boarded the ship for further investigations",
+    "Consequences for crew etc": "Two life rafts were stolen",
+    "Action taken by master/crew": "Alarm raised and all crew members were instructed to remain inside the accommodation area and secure all access doors",
+    "Reported?": true,
+    "Reported to...": "Port authorities.",
+    "Coastal State Action Taken": "Upon docking, Customs Border Protection officials boarded the ship for further investigations.",
+    "MSC/Circ": 257,
+    "Latitude_dd": -4.2517,
+    "Longitude_dd": 152.1833
+  },
+   {
+    "Date": "2026-02-27",
+    "Ship Name": "Nord Auriga",
+    "Ship Type": "Bulk carrier",
+    "IMO No.": "9865556",
+    "Area": "In territorial waters",
+    "Latitude": "1° 05.70' N",
+    "Longitude": "103° 33.00' E",
+    "Incident details": "Duty engine crew onboard the ship underway noticed three robbers, armed with a knife in the engine room. Alarm raised, PA announcement made and crew mustered. On searching the ship, no robbers were found and all ship’s items accounted for. The incident was reported to VTIS and the ship was instructed to proceed to the designated anchorage for further investigations. All crew reported safe.",
+    "Consequences for crew etc": "Nil",
+    "Action taken by master/crew": "Alarm raised, PA announcement made, crew mustered and a search was conducted",
+    "Reported?": true,
+    "Reported to...": "VTIS",
+    "Coastal State Action Taken": "The ship was instructed to proceed to the designated anchorage for further investigations",
+    "MSC/Circ": 256,
+    "Latitude_dd": 1.095,
+    "Longitude_dd": 103.55
   }
 ]
 
