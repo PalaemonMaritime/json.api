@@ -3325,6 +3325,24 @@
     "Latitude_dd": -4.2517,
     "Longitude_dd": 152.1833
   },
+  {
+    "Date": "2026-02-26",
+    "Ship Name": "Taz",
+    "Ship Type": "Bulk carrier",
+    "IMO No.": "9703825",
+    "Area": "In territorial waters",
+    "Latitude": "1° 02.70' N",
+    "Longitude": "103° 38.59' E",
+    "Incident details": "Five robbers in a small wooden boat approached and boarded the ship underway. They went into the engine room and held the duty oiler hostage, threatening him with a gun and a machete. They demanded to know the location of the engine workshop and took the oiler's flashlight and phone. The robbers told the oiler to stay in the workshop while they searched for valuable items. When an engine alarm went off, the oiler ran to the Engine Control Room, locked himself in, and alerted the OOW. Alarm raised, public announcement made, VTIS informed, and a distress message broadcast. A Singapore navy vessel arrived and conducted a search of the ship with the crew. No robbers were found",
+    "Consequences for crew etc": "Oiler taken as hostage",
+    "Action taken by master/crew": "Alarm raised, public announcement made, VTIS informed, and a distress message broadcast",
+    "Reported?": true,
+    "Reported to...": "VTIS",
+    "Coastal State Action Taken": "A Singapore navy vessel arrived and conducted a search of the ship with the crew",
+    "MSC/Circ": 256,
+    "Latitude_dd": 1.045,
+    "Longitude_dd": 103.6432
+  },
    {
     "Date": "2026-02-27",
     "Ship Name": "Nord Auriga",
@@ -3344,6 +3362,7 @@
     "Longitude_dd": 103.55
   }
 ]
+
 
 
 
