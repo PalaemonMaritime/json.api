@@ -3360,8 +3360,28 @@
     "MSC/Circ": 256,
     "Latitude_dd": 1.095,
     "Longitude_dd": 103.55
+  },
+  {
+    "Date": "2026-03-06",
+    "Ship Name": "Ocean Radiance",
+    "Ship Type": "Gas carrier - LPG",
+    "IMO No.": "9194969",
+    "Area": "In territorial waters",
+    "Latitude": "1° 02.30' N",
+    "Longitude": "103° 40.20' E",
+    "Incident details": "Seven unauthorised persons armed with knives boarded the tanker underway and entered the engine room.  Alarm raised, public address announcement made, crew mustered, and a search was conducted. Incident reported to VTIS and Singapore Coast Guard who then escorted the tanker. All crew safe and nothing reported stolen.",
+    "Consequences for crew etc": "Nil",
+    "Action taken by master/crew": "Alarm raised, public address announcement made, crew mustered, and a search was conducted",
+    "Reported?": true,
+    "Reported to...": "VTIS and Singapore Police Coast Guard",
+    "Coastal State Action Taken": "A Singapore Coast Guard vessel escorted the tanker",
+    "MSC/Circ": 257,
+    "Latitude_dd": 1.0383,
+    "Longitude_dd": 103.67
   }
 ]
+]
+
 
 
 
