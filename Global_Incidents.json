@@ -3378,7 +3378,26 @@
     "MSC/Circ": 257,
     "Latitude_dd": 1.0383,
     "Longitude_dd": 103.67
+  },
+   {
+    "Date": "2026-03-17",
+    "Ship Name": "Darya Tiana",
+    "Ship Type": "Bulk carrier",
+    "IMO No.": "9720316",
+    "Area": "In territorial waters",
+    "Latitude": "1° 04.00' N",
+    "Longitude": "103° 36.30' E",
+    "Incident details": "Duty crew onboard a bulk carrier underway identified one unauthorised person boarding via the starboard quarter. Alarm raised and crew mustered. Seeing the crew alertness, four unauthorised persons were seen escaping. Incident reported to VTIS West and Singapore Police Coast Guard boarded the vessel for inspection.",
+    "Consequences for crew etc": "Nil",
+    "Action taken by master/crew": "Alarm raised, crew mustered, and a search was carried out",
+    "Reported?": true,
+    "Reported to...": "VTIS and Singapore Police Coast Guard",
+    "Coastal State Action Taken": "Singapore Police Coast Guard boarded the vessel for inspection.",
+    "MSC/Circ": 257,
+    "Latitude_dd": 1.0667,
+    "Longitude_dd": 103.605
   }
+]
 ]
 
 
