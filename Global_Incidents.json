@@ -3449,7 +3449,43 @@
     "MSC/Circ": 358,
     "Latitude_dd": 2.0972,
     "Longitude_dd": 57.2043
+  },
+    {
+    "Date": "2026-03-28",
+    "Ship Name": "ALS Vesta",
+    "Ship Type": "Container ship",
+    "IMO No.": "9525950",
+    "Area": "In port area",
+    "Latitude": "14° 35.65' N",
+    "Longitude": "120° 51.70' E",
+    "Incident details": "The duty crew on an anchored ship noticed three unauthorized individuals on board. They promptly informed the master. The master instructed more crew members to go to the deck to help. Upon noticing the crew's vigilance, the individuals quickly jumped into the water and escaped. No theft was reported.",
+    "Consequences for crew etc": "N/A",
+    "Action taken by master/crew": "The master instructed more crew members to go to the deck to help",
+    "Reported?": false,
+    "Coastal State Action Taken": "N/A",
+    "MSC/Circ": 358,
+    "Latitude_dd": 14.5942,
+    "Longitude_dd": 120.8617
+  },
+  {
+    "Date": "2026-04-09",
+    "Ship Name": "Lowlands Island",
+    "Ship Type": "Bulk carrier",
+    "IMO No.": "9984534",
+    "Area": "In territorial waters",
+    "Latitude": "1° 03.00' N",
+    "Longitude": "103° 39.70' E",
+    "Incident details": "While underway, four perpetrators were sighted in the engine room. One of the perpetrators carried a knife, and another perpetrator carried a gun-like object and a knife. The ship's general alarm was activated and crew mustered. After conducting a search onboard, the master confirmed there was no further sighting of the perpetrators and some engine spares were stolen. All crew members were accounted for, with no injuries reported. The incident was reported to Singapore Vessel Traffic Information System (VTIS). Safety broadcast on anti-piracy watch was carried out to warn all vessels to maintain a vigilant watch at all times in the Singapore Strait (SS). The Republic of Singapore Navy (RSN) and Singapore Police Coast Guard (SPCG) were notified of the incident. Information was shared with the Indonesian authority. The SPCG boarded the ship for security checks at Singapore anchorage, with no perpetrators found onboard.\n",
+    "Consequences for crew etc": "Some engine spares were stolen.\nThe crew were not injured. \n",
+    "Action taken by master/crew": "The ship's general alarm was activated and crew mustered to conduct a search onboard.",
+    "Reported?": true,
+    "Reported to...": "The incident was reported to Singapore VTIS.",
+    "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was initiated to warn all vessels to maintain a vigilant watch at all times in the SS. The RSN and SPCG were notified of the incident. Information was shared with the Indonesian authority. The SPCG boarded the ship for security checks at Singapore anchorage, with no perpetrators found onboard.",
+    "MSC/Circ": 359,
+    "Latitude_dd": 1.05,
+    "Longitude_dd": 103.6617
   }
+]
 ]
 
 
