@@ -3606,6 +3606,23 @@
     "MSC/Circ": 359,
     "Latitude_dd": 7.2167,
     "Longitude_dd": 49.5333
+  },
+    {
+    "Date": "2026-05-02",
+    "Ship Name": "Name Withheld",
+    "Ship Type": "Product tanker",
+    "Area": "In territorial waters",
+    "Latitude": "13° 49.00' N",
+    "Longitude": "48° 28.00' E",
+    "Incident details": "Nine-armed persons boarded, hijacked, and took hostage the crew on an anchored tanker. Reports indicate the tanker to be heading towards the Somali Coast. Local and international Authorities are investigating.",
+    "Consequences for crew etc": "Armed persons took hostage 12 crew members and hijacked the tanker",
+    "Action taken by master/crew": "NA",
+    "Reported?": true,
+    "Reported to...": "MSCIO & UKMTO",
+    "Coastal State Action Taken": "Authorities are monitoring the tanker",
+    "MSC/Circ": 359,
+    "Latitude_dd": 13.8167,
+    "Longitude_dd": 48.4667
   }
 ]
 
