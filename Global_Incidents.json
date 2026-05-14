@@ -3623,6 +3623,23 @@
     "MSC/Circ": 359,
     "Latitude_dd": 13.8167,
     "Longitude_dd": 48.4667
+  },
+    {
+    "Date": "2026-05-12",
+    "Ship Name": "Broompark",
+    "Ship Type": "Bulk carrier",
+    "IMO No.": "9989247",
+    "Area": "In territorial waters",
+    "Latitude": "1° 03.05' N",
+    "Longitude": "103° 38.06' E",
+    "Incident details": "Duty crew onboard a ship underway noticed a robber armed with a knife in the engine room workshop. The robber then threatened the duty crew who retreated in the engine control room and immediately informed the bridge. Alarm raised and crew mustered. Seeing the crew alertness, the robber escaped. A search was carried out and all ship’s items accounted for. All crew reported safe.\n",
+    "Consequences for crew etc": "Duty crew threatened",
+    "Action taken by master/crew": "Nil",
+    "Reported?": false,
+    "Coastal State Action Taken": "NA",
+    "MSC/Circ": 360,
+    "Latitude_dd": 1.0508,
+    "Longitude_dd": 103.6343
   }
 ]
 
