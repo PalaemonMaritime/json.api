@@ -3695,13 +3695,78 @@
     "MSC/Circ": 361,
     "Latitude_dd": 1.0693,
     "Longitude_dd": 103.6985
+  },
+   {
+    "Date": "2026-06-13",
+    "Ship Name": "Gul Bano",
+    "Ship Type": "Bulk carrier",
+    "IMO No.": "9425899",
+    "Area": "In territorial waters",
+    "Latitude": "1° 05.45' N",
+    "Longitude": "103° 43.88' E",
+    "Incident details": "While underway, four perpetrators were sighted in the engine room. One of the perpetrators carried a gun-like object and three perpetrators were unarmed. The ship’s general alarm was activated, deck lights switched on and the crew was mustered. A search was conducted, with no further sighting of the perpetrators onboard. All crew members were accounted for and safe, with no injuries reported. Some engine spares were missing. No further assistance was required.\n\nThe incident was reported to Singapore Vessel Traffic Information System (VTIS). Safety broadcast on anti-piracy watch was carried out to warn all vessels to maintain a vigilant watch at all times in the Singapore Strait (SS). The Republic of Singapore Navy (RSN) and Singapore Police Coast Guard (SPCG) were notified of the incident. Information was shared with the Indonesian authorities.\n\nUpon arrival at Eastern Holding A Anchorage (AEHA), SPCG boarded the vessel and conducted a search onboard, with no perpetrators found.\n",
+    "Consequences for crew etc": "Some engine spares were missing.\n\nAll crew members were accounted for and safe, with no injuries reported.\n",
+    "Action taken by master/crew": "The ship’s general alarm was activated, deck lights switched on and the crew was mustered.",
+    "Reported?": true,
+    "Reported to...": "The incident was reported to Singapore VTIS.",
+    "Coastal State Action Taken": "Safety broadcast on anti-piracy watch was carried out to warn all vessels to always maintain a vigilant watch at all times in the SS. The RSN and SPCG were notified of the incident. Information was shared with the Indonesian authorities.\n\nUpon arrival at AEHA, SPCG boarded the vessel and conducted a search onboard, with no perpetrators found.\n",
+    "MSC/Circ": 361,
+    "Latitude_dd": 1.0908,
+    "Longitude_dd": 103.7313
+  },
+  {
+    "Date": "2026-06-14",
+    "Ship Name": "LBC TUGCE IMO",
+    "Ship Type": "General cargo ship",
+    "IMO No.": "9088299",
+    "Area": "In international waters",
+    "Latitude": "9° 51.80' N",
+    "Longitude": "51° 19.90' E",
+    "Incident details": "Two suspicious boats carrying approximately six persons each approached the vessel from the aft. The boats opened continuous gunfire and ordered the vessel to stop.\nThe embarked armed security team responded immediately and returned fire. An exchange of fire continued for approximately 30 minutes, after which the suspected pirate boats abandoned their approach and retreated from the area.\nDuring the incident, the Master activated the piracy alarm and transmitted the Ship Security Alert System (SSAS). Attempts were also made to contact nearby warships and vessels to report the incident.\nFollowing the event, all crew members and armed guards were accounted for and found safe. No injuries, unauthorized boarding, damage to the vessel, or damage to the cargo have been reported. The vessel remains seaworthy and has continued her voyage safely.\n",
+    "Consequences for crew etc": "No injuries, unauthorized boarding, damage to the vessel, or damage to the cargo have been reported",
+    "Action taken by master/crew": "The Master activated the piracy alarm and transmitted the Ship Security Alert System (SSAS). Attempts were also made to contact nearby warships and vessels to report the incident",
+    "Reported?": true,
+    "Reported to...": "Attempts were also made to contact nearby warships and vessels to report the incident",
+    "Reporting State": "Palau",
+    "Coastal State Action Taken": "N/A",
+    "MSC/Circ": 361,
+    "Latitude_dd": 9.8633,
+    "Longitude_dd": 51.3317
+  },
+  {
+    "Date": "2026-06-15",
+    "Ship Name": "Greta Star",
+    "Ship Type": "Container ship",
+    "IMO No.": "9230787",
+    "Area": "In international waters",
+    "Latitude": "13° 10.80' N",
+    "Longitude": "46° 27.90' E",
+    "Incident details": "Seven pirates armed with guns approached, fired upon and attempted to board the ship underway.  Alarm raised, crew mustered, speed increased and evasive manoeuvres executed resulting in the pirates aborting the boarding attempt and moving away.",
+    "Consequences for crew etc": "Nil",
+    "Action taken by master/crew": "Alarm raised, crew mustered, speed increased and evasive manoeuvres executed",
+    "Reported?": true,
+    "Reported to...": "Port Control",
+    "Coastal State Action Taken": "NA",
+    "MSC/Circ": 361,
+    "Latitude_dd": 13.18,
+    "Longitude_dd": 46.465
+  },
+  {
+    "Date": "2026-06-15",
+    "Ship Name": "VST Amara",
+    "Ship Type": "Product tanker",
+    "IMO No.": "9742211",
+    "Area": "In international waters",
+    "Latitude": "12° 24.13' N",
+    "Longitude": "46° 46.55' E",
+    "Incident details": "Seeing an approaching skiff, a tanker underway commenced evasive manoeuvre. As the skiff approached, a RPG was fired towards the vessel which missed. The onboard armed security team returned fire resulting in the pirates aborting the approach and moving away.",
+    "Consequences for crew etc": "Nil",
+    "Action taken by master/crew": "Commenced evasive manoeuvre.  The onboard armed security team returned fire",
+    "Reported?": true,
+    "Reported to...": "UKMTO",
+    "Coastal State Action Taken": "N/A",
+    "MSC/Circ": 361,
+    "Latitude_dd": 12.4022,
+    "Longitude_dd": 46.7758
   }
 ]
-
-
-
-
-
-
-
-
