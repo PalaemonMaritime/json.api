@@ -3768,5 +3768,36 @@
     "MSC/Circ": 361,
     "Latitude_dd": 12.4022,
     "Longitude_dd": 46.7758
+  },
+  {
+    "Date": "2026-06-15",
+    "Ship Name": "VST Amara",
+    "Ship Type": "Product tanker",
+    "IMO No.": "9742211",
+    "Area": "In international waters",
+    "Latitude": "12° 24.13' N",
+    "Longitude": "46° 46.55' E",
+    "Incident details": "Seeing an approaching skiff, a tanker underway commenced evasive manoeuvre. As the skiff approached, a RPG was fired towards the vessel which missed. The onboard armed security team returned fire resulting in the pirates aborting the approach and moving away.",
+    "Consequences for crew etc": "Nil",
+    "Action taken by master/crew": "Commenced evasive manoeuvre.  The onboard armed security team returned fire",
+    "Reported?": true,
+    "Reported to...": "UKMTO",
+    "Coastal State Action Taken": "N/A",
+    "MSC/Circ": 361,
+    "Latitude_dd": 12.4022,
+    "Longitude_dd": 46.7758
+  },
+  {
+    "Date": "2026-06-19",
+    "Ship Name": "TS Pusan",
+    "Ship Type": "Container ship",
+    "IMO No.": "9854844",
+    "Area": "In port area",
+    "Incident details": "Bosun onboard an anchored ship noticed four robbers armed with a knife at the forecastle deck and immediately raised the alarm resulting in the robbers escaping with stolen ship’s properties.",
+    "Consequences for crew etc": "Ship’s properties stolen",
+    "Action taken by master/crew": "Alarm raised",
+    "Reported?": false,
+    "Coastal State Action Taken": "NA",
+    "MSC/Circ": 361
   }
 ]
