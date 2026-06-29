@@ -3799,5 +3799,41 @@
     "Reported?": false,
     "Coastal State Action Taken": "NA",
     "MSC/Circ": 361
+  },
+    {
+    "Date": "2026-06-20",
+    "Ship Name": "Jin Hwa 45/Jin Hwa 37",
+    "Ship Type": "Tug",
+    "IMO No.": "9648958",
+    "Area": "In international waters",
+    "Latitude": "1° 30.36' N",
+    "Longitude": "104° 54.09' E",
+    "Incident details": "Three unauthorised persons boarded a barge under tow and escaped with stolen barge’s properties.",
+    "Consequences for crew etc": "Barge’s properties stolen",
+    "Action taken by master/crew": "Nil",
+    "Reported?": true,
+    "Reported to...": "NA",
+    "Coastal State Action Taken": "NA",
+    "MSC/Circ": 361,
+    "Latitude_dd": 1.506,
+    "Longitude_dd": 104.9015
+  },
+  {
+    "Date": "2026-06-21",
+    "Ship Name": "Sea Heart",
+    "Ship Type": "Product tanker",
+    "IMO No.": "9240706",
+    "Area": "In international waters",
+    "Latitude": "14° 30.81' N",
+    "Longitude": "50° 19.31' E",
+    "Incident details": "Five individuals armed with guns in a skiff approached and attempted to board a tanker underway. Alarm raised, crew mustered, speed increased and evasive manoeuvres executed resulting in the skiffs aborting the attempted boarding.",
+    "Consequences for crew etc": "Nil",
+    "Action taken by master/crew": "Alarm raised, crew mustered, speed increased and evasive manoeuvres executed",
+    "Reported?": true,
+    "Reported to...": "NA",
+    "Coastal State Action Taken": "NA",
+    "MSC/Circ": 361,
+    "Latitude_dd": 14.5135,
+    "Longitude_dd": 50.3218
   }
 ]
